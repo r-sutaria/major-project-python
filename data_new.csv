@@ -1,0 +1,580 @@
+,Name,Link,Tags,Difficulty,Submissions,Accuracy
+Min Heap implementation,https://practice.geeksforgeeks.org/problems/min-heap-implementation/1,Queue|STL|,Amazon|,Easy,3777,72.40%
+Delete without head pointer,https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1,Linked List|,Amazon|Goldman Sachs|Kritikal Solutions|Microsoft|Samsung|Visa|,Medium,57444,69.01%
+Height of Binary Tree,https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1,Tree|,Amazon|Cadence India|CouponDunia|D-E-Shaw|FactSet|FreeCharge|MakeMyTrip|Monotype Solutions|Snapdeal|Synopsys|Teradata|VMWare|Zoho|,Basic,50363,65.76%
+Sorted matrix,https://practice.geeksforgeeks.org/problems/sorted-matrix/0,Matrix|,Amazon|FactSet|,Basic,6482,63.74%
+Mirror Tree,https://practice.geeksforgeeks.org/problems/mirror-tree/1,Tree|,Accolite|Adobe|Amazon|Belzabar|eBay|Goldman Sachs|Microsoft|Morgan Stanley|Myntra|Ola Cabs|Paytm|PropTiger|Samsung|SAP Labs|Snapdeal|VMWare|Walmart|,Easy,50613,63.43%
+Clone a Binary Tree,https://practice.geeksforgeeks.org/problems/clone-a-binary-tree/1,Tree|,Amazon|Synopsys|,Medium,8268,62.92%
+Binary Tree to CDLL,https://practice.geeksforgeeks.org/problems/binary-tree-to-cdll/1,Linked List|Tree|,Amazon|SAP Labs|,Medium,5802,61.93%
+Construct Tree from Preorder Traversal,https://practice.geeksforgeeks.org/problems/construct-tree-from-preorder-traversal/1,Traversal|Tree|,Amazon|Hike|,Medium,6707,61.44%
+Occurences of 2 as a digit,https://practice.geeksforgeeks.org/problems/occurences-of-2-as-a-digit/1,number-theory|,Amazon|,Medium,4668,60.83%
+Inorder Traversal,https://practice.geeksforgeeks.org/problems/inorder-traversal/1,Tree|,Adobe|Amazon|Snapdeal|,Basic,34496,60.29%
+Trie | (Insert and Search),https://practice.geeksforgeeks.org/problems/trie-insert-and-search/0,Trie|,Accolite|Amazon|D-E-Shaw|FactSet|,Medium,8022,60.27%
+Rotate Array,https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0,Arrays|,Amazon|MAQ Software|,Basic,105148,59.87%
+Repetitive Addition Of Digits,https://practice.geeksforgeeks.org/problems/repetitive-addition-of-digits/0,Mathematical|,Amazon|,Basic,8214,59.11%
+Preorder Traversal,https://practice.geeksforgeeks.org/problems/preorder-traversal/1,Tree|,Amazon|Walmart|,Basic,25544,59.04%
+Diagonal Sum In Binary Tree,https://practice.geeksforgeeks.org/problems/diagonal-sum-in-binary-tree/1,Recursion|Tree|,Accolite|Amazon|,Easy,8221,58.89%
+Kth smallest element,https://practice.geeksforgeeks.org/problems/kth-smallest-element/0,Arrays|Searching|Sorting|,ABCO|Accolite|Amazon|Cisco|Hike|Microsoft|Snapdeal|VMWare|,Medium,96239,58.64%
+Maximum Node Level,https://practice.geeksforgeeks.org/problems/maximum-node-level/1,Tree|,Amazon|VMWare|,Easy,5721,56.83%
+Add 1 to a number represented as linked list,https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1,Linked List|,Amazon|,Easy,8716,56.58%
+Count Pairs whose sum is equal to X,https://practice.geeksforgeeks.org/problems/count-pairs-whose-sum-is-equal-to-x/1,Linked List|,Amazon|,Easy,13418,56.35%
+Rotate by 90 degree,https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1,Matrix|,Amazon|D-E-Shaw|Microsoft|Morgan Stanley|Paytm|Samsung|Snapdeal|Zoho|,Basic,308,56.15%
+Leaves to DLL,https://practice.geeksforgeeks.org/problems/leaves-to-dll/1,Linked List|Tree|,Amazon|Linkedin|,Medium,8794,56.03%
+Expression Tree,https://practice.geeksforgeeks.org/problems/expression-tree/1,Tree|,Amazon|Flipkart|Snapdeal|Synopsys|,Easy,11600,55.88%
+K distance from root,https://practice.geeksforgeeks.org/problems/k-distance-from-root/1,Tree|,Amazon|Microsoft|Ola Cabs|Samsung|,Easy,24634,55.52%
+Sum of numbers in string,https://practice.geeksforgeeks.org/problems/sum-of-numbers-in-string/0,Strings|,Amazon|Linkedin|MAQ Software|OYO Rooms|SAP Labs|,Basic,9271,55.48%
+Trail of ones,https://practice.geeksforgeeks.org/problems/trail-of-ones/0,Bit Magic|,Amazon|,Easy,1767,55.37%
+Total number of Strings,https://practice.geeksforgeeks.org/problems/total-number-of-strings/0,Mathematical|permutation|,Amazon|,Basic,3672,55.27%
+Remove Half Nodes,https://practice.geeksforgeeks.org/problems/remove-half-nodes/1,Tree|,Amazon|,Easy,4255,55.22%
+Twice counter,https://practice.geeksforgeeks.org/problems/twice-counter/0,Map|STL|Strings|,Amazon|,Basic,10265,55.09%
+Maximum money,https://practice.geeksforgeeks.org/problems/maximum-money/0,Mathematical|,Amazon|,Basic,11298,55.08%
+Minimum difference pair,https://practice.geeksforgeeks.org/problems/minimum-difference-pair/0,|,Amazon|,Basic,9885,54.91%
+Absolute List Sorting,https://practice.geeksforgeeks.org/problems/absolute-list-sorting/1,Linked List|,Amazon|OYO Rooms|,Easy,9287,54.87%
+Bit Difference,https://practice.geeksforgeeks.org/problems/bit-difference/0,Bit Magic|,Amazon|Qualcomm|Samsung|,Basic,19344,54.20%
+Make Binary Tree From Linked List,https://practice.geeksforgeeks.org/problems/make-binary-tree/1,Queue|Tree|,Amazon|,Medium,9413,53.89%
+Odd even level difference,https://practice.geeksforgeeks.org/problems/odd-even-level-difference/1,Tree|,Amazon|,Easy,12991,53.67%
+Is Sudoku Valid,https://practice.geeksforgeeks.org/problems/is-sudoku-valid/0,Matrix|,Amazon|Google|,Medium,5341,53.64%
+Print Diagonally,https://practice.geeksforgeeks.org/problems/print-diagonally/0,Misc|,Amazon|,Medium,9487,53.57%
+Match specific pattern,https://practice.geeksforgeeks.org/problems/match-specific-pattern/1,Hash|Strings|,Amazon|MakeMyTrip|Microsoft|,Easy,4656,53.45%
+Decode the pattern,https://practice.geeksforgeeks.org/problems/decode-the-pattern/0,pattern-printing|Strings|,Amazon|Facebook|Microsoft|Zoho|,Easy,6272,53.16%
+Find Transition Point,https://practice.geeksforgeeks.org/problems/find-transition-point/1,Arrays|Searching|,Amazon|,Easy,20814,53.15%
+Count subsequences of type a^i b^j c^k,https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck/0,Dynamic Programming|Strings|,Amazon|,Medium,10322,53.10%
+Geek and Coffee Shop,https://practice.geeksforgeeks.org/problems/geek-and-coffee-shop/0,Mathematical|,Amazon|,Basic,6787,53.07%
+Count total set bits,https://practice.geeksforgeeks.org/problems/count-total-set-bits/0,Bit Magic|,Adobe|Amazon|,Basic,15186,52.97%
+Reach a given score,https://practice.geeksforgeeks.org/problems/reach-a-given-score/0,Dynamic Programming|,Amazon|,Easy,12258,52.75%
+Max Level Sum in Binary Tree,https://practice.geeksforgeeks.org/problems/max-level-sum-in-binary-tree/1,Tree|,Amazon|VMWare|,Easy,10798,52.58%
+Vertical sum,https://practice.geeksforgeeks.org/problems/vertical-sum/1,Tree|,Amazon|,Easy,9696,52.53%
+Josephus problem,https://practice.geeksforgeeks.org/problems/josephus-problem/1,Bit Magic|Recursion|,Amazon|Walmart|,Easy,16658,52.47%
+Minimum Depth of a Binary Tree,https://practice.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1,Tree|,Amazon|Facebook|,Easy,12390,52.43%
+Merge Sort for Linked List,https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1,Linked List|Merge Sort|Sorting|,Accolite|Adobe|Amazon|MAQ Software|Microsoft|Paytm|Veritas|,Easy,10797,52.29%
+Count number of hops,https://practice.geeksforgeeks.org/problems/count-number-of-hops/0,Dynamic Programming|,Amazon|,Easy,20236,52.24%
+Determine if Two Trees are Identical,https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1,Tree|,Amazon|Microsoft|,Easy,54513,52.24%
+Square root,https://practice.geeksforgeeks.org/problems/square-root/1,Mathematical|Searching|,Accolite|Amazon|Flipkart|Microsoft|VMWare|,Basic,20604,52.21%
+How Many X's?,https://practice.geeksforgeeks.org/problems/how-many-xs/0,Modular Arithmetic|Numbers|,Amazon|,Basic,10187,52.01%
+Palindromic Array,https://practice.geeksforgeeks.org/problems/palindromic-array/0,Mathematical|,Amazon|,Medium,9726,51.94%
+Number of paths,https://practice.geeksforgeeks.org/problems/number-of-paths/0,Recursion|,Amazon|Microsoft|Zoho|,Basic,20153,51.77%
+Right View of Binary Tree,https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1,Tree|,Accolite|Adobe|Amazon|MakeMyTrip|Snapdeal|,Easy,20666,51.66%
+Count the Zeros,https://practice.geeksforgeeks.org/problems/count-the-zeros/0,Arrays|Searching|,Amazon|Yahoo|,Easy,17218,51.61%
+Binary String,https://practice.geeksforgeeks.org/problems/binary-string/1,Strings|,Amazon|,Basic,4006,51.58%
+Addition of submatrix,https://practice.geeksforgeeks.org/problems/addition-of-submatrix/0,Arrays|,Amazon|,Easy,9695,51.56%
+Count ways to N'th Stair(Order does not matter),https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter1322/1,Dynamic Programming|Mathematical|,Accolite|Amazon|,Medium,10817,51.45%
+Rotate a 2D array without using extra space,https://practice.geeksforgeeks.org/problems/rotate-a-2d-array-without-using-extra-space/0,Arrays|,Amazon|Facebook|Google|,Medium,15738,51.36%
+Greater on right side,https://practice.geeksforgeeks.org/problems/greater-on-right-side/0,Arrays|,Amazon|,Basic,14884,51.29%
+N meetings in one room,https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0,Greedy|,Amazon|Flipkart|MakeMyTrip|Morgan Stanley|Visa|,Easy,16201,51.24%
+Replace all 0's with 5,https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1,Arrays|Mathematical|,Amazon|,Basic,17454,51.24%
+Merge k Sorted Arrays,https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1,Arrays|Heap|Sorting|,Amazon|Citrix|Flipkart|Microsoft|VMWare|,Medium,12518,51.19%
+Sum of Lengths of Non-Overlapping SubArrays,https://practice.geeksforgeeks.org/problems/sum-of-lengths-of-non-overlapping-subarrays/0,Arrays|,Amazon|,Easy,7170,51.16%
+Find the element that appears once in sorted array,https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array/0,Divide and Conquer|Searching|,Amazon|D-E-Shaw|Ola Cabs|,Basic,27186,51.10%
+Evaluation of Postfix Expression,https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0,Stack|,Amazon|,Easy,12965,51.04%
+X Total Shapes,https://practice.geeksforgeeks.org/problems/x-total-shapes/0,Graph|,Amazon|Google|,Medium,11784,51%
+Remove character,https://practice.geeksforgeeks.org/problems/remove-character/0,Strings|,Amazon|Zoho|,Basic,10489,50.99%
+Count pairs with given sum,https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum/0,Arrays|Hash|,Accolite|Adobe|Amazon|FactSet|Flipkart|Goldman Sachs|Hike|,Easy,17241,50.97%
+Element that appears once where every element occurs twice,https://practice.geeksforgeeks.org/problems/element-that-appears-once-where-every-element-occurs-twice/0,Bit Magic|Mathematical|,Amazon|Microsoft|,Easy,13717,50.95%
+"Count of strings that can be formed using a, b and c under given constraints",https://practice.geeksforgeeks.org/problems/count-of-strings-that-can-be-formed-using-a-b-and-c-under-given-constraints/0,Dynamic Programming|Strings|,Amazon|Google|,Easy,10093,50.86%
+Generate Binary Numbers,https://practice.geeksforgeeks.org/problems/generate-binary-numbers/0,Queue|,Amazon|OYO Rooms|,Basic,10238,50.84%
+Number following a pattern,https://practice.geeksforgeeks.org/problems/number-following-a-pattern/0,Strings|,Amazon|Goldman Sachs|Google|,Medium,10115,50.68%
+Replace all 0's with 5,https://practice.geeksforgeeks.org/problems/replace-all-0-with-5-in-an-input-integer/1,Mathematical|number-theory|,Amazon|,School,11629,50.61%
+Reverse Bits,https://practice.geeksforgeeks.org/problems/reverse-bits/0,Bit Magic|Mathematical|,Amazon|Cisco|HCL|Nvidia|Qualcomm|,Easy,13626,50.58%
+Symmetric Tree,https://practice.geeksforgeeks.org/problems/symmetric-tree/1,Tree|,Amazon|,Easy,17839,50.54%
+Sort a stack,https://practice.geeksforgeeks.org/problems/sort-a-stack/1,Recursion|Stack|STL|,Amazon|Goldman Sachs|IBM|Intuit|Kuliza|Yahoo|,Easy,21821,50.51%
+Maximum Profit,https://practice.geeksforgeeks.org/problems/maximum-profit/0,Dynamic Programming|Mathematical|,Accolite|Amazon|,Medium,5751,50.45%
+Number of Groups,https://practice.geeksforgeeks.org/problems/number-of-groups/0,Mathematical|,Amazon|,Easy,3766,50.38%
+Count Occurences of Anagrams,https://practice.geeksforgeeks.org/problems/count-occurences-of-anagrams/0,Arrays|sliding-window|,Amazon|Intuit|Microsoft|,Easy,10501,50.33%
+Finding Position,https://practice.geeksforgeeks.org/problems/finding-position/0,Mathematical|Recursion|,Amazon|,Easy,13071,50.33%
+First negative integer in every window of size k,https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k/0,Arrays|Queue|sliding-window|,Amazon|,Easy,10744,50.28%
+Transform to Sum Tree,https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1,Tree|,Amazon|FactSet|Microsoft|Samsung|Walmart|,Easy,17214,50.22%
+Lowest Common Ancestor in a BST,https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1,Binary Search Tree|Tree|,Accolite|Amazon|Flipkart|MAQ Software|Microsoft|Samsung|Synopsys|,Easy,37953,50.22%
+Reverse a String,https://practice.geeksforgeeks.org/problems/reverse-the-string/0,Strings|,Adobe|Amazon|Goldman Sachs|MAQ Software|VMWare|,School,16334,50.20%
+Check if Tree is Isomorphic,https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1,Tree|,Amazon|Microsoft|,Easy,14969,50.16%
+Maximum value in a bitonic array,https://practice.geeksforgeeks.org/problems/maximum-value-in-a-bitonic-array/0,Arrays|Searching|,Amazon|,Easy,13108,50.15%
+Convert array into Zig-Zag fashion,https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion/0,Arrays|,Amazon|Paytm|,Basic,21744,50.11%
+Element appearing once,https://practice.geeksforgeeks.org/problems/element-appearing-once/0,Searching|,Amazon|Codenation|Qualcomm|,Easy,10884,50.11%
+Check for Balanced Tree,https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1,Tree|,Amazon|Walmart|,Easy,39649,50.11%
+Perfect Sum Problem,https://practice.geeksforgeeks.org/problems/perfect-sum-problem/0,Dynamic Programming|,Amazon|Microsoft|Tesco|,Medium,9275,50.10%
+Implement strstr,https://practice.geeksforgeeks.org/problems/implement-strstr/1,Strings|,Amazon|Facebook|Microsoft|Qualcomm|,Basic,25823,50.08%
+Union of Two Linked Lists,https://practice.geeksforgeeks.org/problems/union-of-two-linked-list/1,Hash|Linked List|Sorting|,24*7 Innovation Labs|Amazon|Flipkart|Komli Media|Microsoft|Taxi4Sure|,Easy,10798,50.08%
+Substrings with similar first and last characters,https://practice.geeksforgeeks.org/problems/substrings-with-similar-first-and-last-characters/0,Hash|Mathematical|Strings|,Amazon|,Basic,2878,50.06%
+Reverse each word in a given string,https://practice.geeksforgeeks.org/problems/reverse-each-word-in-a-given-string/0,Strings|,Adobe|Amazon|Flipkart|MAQ Software|Microsoft|Paytm|Payu|Zoho|,Basic,8839,50.05%
+Check set bits,https://practice.geeksforgeeks.org/problems/check-set-bits/0,Bit Magic|,Amazon|,Basic,10771,50.04%
+Index Of an Extra Element,https://practice.geeksforgeeks.org/problems/index-of-an-extra-element/1,Arrays|Searching|,Amazon|Zoho|,Easy,21398,50.04%
+Diameter of Binary Tree,https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1,Tree|,Amazon|Cadence India|Directi|MakeMyTrip|Microsoft|Oracle|OYO Rooms|Philips|PropTiger|Salesforce|Snapdeal|VMWare|,Easy,43584,50.01%
+Nuts and Bolts Problem,https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem/0,Arrays|Hash|,Adobe|Amazon|Hike|MakeMyTrip|MAQ Software|,Medium,14619,50%
+Binary Array Sorting,https://practice.geeksforgeeks.org/problems/binary-array-sorting/0,Arrays|Sorting|two-pointer-algorithm|,Accolite|Amazon|InfoEdge|Intuit|MakeMyTrip|Paytm|Zoho|,Basic,20874,50%
+Unique BST's,https://practice.geeksforgeeks.org/problems/unique-bsts/0,Binary Search Tree|Dynamic Programming|,Amazon|Samsung|Twitter|,Medium,14129,50%
+Uncommon characters,https://practice.geeksforgeeks.org/problems/uncommon-characters/0,Hash|Strings|,Amazon|,Basic,15419,50%
+Delete Middle of Linked List,https://practice.geeksforgeeks.org/problems/delete-middle-of-linked-list/1,Linked List|two-pointer-algorithm|,Amazon|Flipkart|Microsoft|,Easy,17353,50%
+Add all greater values to every node in a BST,https://practice.geeksforgeeks.org/problems/add-all-greater-values-to-every-node-in-a-bst/1,Binary Search Tree|Tree|,Amazon|,Medium,13153,50%
+Binary Tree to BST,https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1,Binary Search Tree|Tree|,Adobe|Amazon|,Easy,11573,50%
+Merge two BST 's,https://practice.geeksforgeeks.org/problems/merge-two-bst-s/1,Binary Search Tree|Tree|,Amazon|Google|Microsoft|,Medium,11510,50%
+Special Stack,https://practice.geeksforgeeks.org/problems/special-stack/1,Stack|STL|,Adobe|Amazon|FactSet|Goldman Sachs|Intuit|Linkedin|MakeMyTrip|Paytm|SAP Labs|VMWare|Walmart|,Easy,18128,50%
+Fixing Two nodes of a BST,https://practice.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1,Binary Search Tree|,Amazon|BankBazaar|FactSet|Microsoft|Walmart|,Hard,11322,50%
+Remove all duplicates from a given string,https://practice.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string/0,Arrays|Strings|,Adobe|Amazon|Microsoft|,Easy,12005,49.98%
+Rearrange characters,https://practice.geeksforgeeks.org/problems/rearrange-characters/0,Heap|STL|Strings|,Amazon|,Medium,14225,49.98%
+Tree from Postorder and Inorder,https://practice.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1,Tree|,Adobe|Amazon|Hike|,Medium,10540,49.98%
+Maximum Rectangular Area in a Histogram,https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0,Stack|,Amazon|MAQ Software|Paytm|Snapdeal|,Medium,30269,49.97%
+Extract Maximum,https://practice.geeksforgeeks.org/problems/extract-maximum/0,Mathematical|Strings|,Amazon|,Basic,10698,49.96%
+Group Anagrams Together,https://practice.geeksforgeeks.org/problems/k-anagrams-1/0,Hash|Strings|,Amazon|D-E-Shaw|Goldman Sachs|Morgan Stanley|Snapdeal|,Easy,11195,49.96%
+Two Mirror Trees,https://practice.geeksforgeeks.org/problems/two-mirror-trees/1,Tree|,Amazon|D-E-Shaw|Hike|,Easy,15346,49.96%
+Binary String,https://practice.geeksforgeeks.org/problems/binary-string/0,Strings|,Amazon|,Basic,18459,49.94%
+Find the Closest Element in BST,https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1,Binary Search Tree|Tree|,Amazon|MAQ Software|,Medium,11766,49.94%
+Reorder List,https://practice.geeksforgeeks.org/problems/reorder-list/1,Linked List|,Amazon|Microsoft|OYO Rooms|,Hard,16470,49.92%
+Maximum path sum,https://practice.geeksforgeeks.org/problems/maximum-path-sum/1,Tree|,Accolite|Amazon|Directi|Facebook|FactSet|Microsoft|OYO Rooms|,Easy,24974,49.92%
+Heap Sort,https://practice.geeksforgeeks.org/problems/heap-sort/1,Heap|Sorting|,24*7 Innovation Labs|Amazon|Belzabar|Intuit|Oracle|Samsung|SAP Labs|Visa|,Easy,22607,49.91%
+Number of occurrence,https://practice.geeksforgeeks.org/problems/number-of-occurrence/0,Arrays|Searching|,Amazon|MakeMyTrip|Zoho|,Basic,25259,49.87%
+Prime number of set bits,https://practice.geeksforgeeks.org/problems/prime-number-of-set-bits/0,Prime Number|sieve|,Adobe|Amazon|,Easy,5248,49.83%
+Maximum product of two numbers,https://practice.geeksforgeeks.org/problems/maximum-product-of-two-numbers/0,Arrays|Sorting|,Amazon|,Basic,13987,49.80%
+Unit Area of largest region of 1's,https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s/0,BFS|DFS|Graph|,Amazon|Flipkart|Microsoft|Salesforce|Samsung|,Medium,11494,49.80%
+Find the Highest number,https://practice.geeksforgeeks.org/problems/find-the-highest-number/0,Binary Search|,Amazon|,Basic,12136,49.71%
+Segregate even and odd nodes in a Linked List,https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list/0,Linked List|,Amazon|,Easy,14162,49.67%
+Facing the sun,https://practice.geeksforgeeks.org/problems/facing-the-sun/0,Arrays|Searching|,Amazon|,Easy,13587,49.64%
+Product array puzzle,https://practice.geeksforgeeks.org/problems/product-array-puzzle/0,Arrays|Mathematical|,Accolite|Amazon|D-E-Shaw|Intuit|Morgan Stanley|Opera|,Easy,19004,49.62%
+Clone a linked list with next and random pointer,https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1,Linked List|,Adobe|Amazon|BankBazaar|D-E-Shaw|MakeMyTrip|Microsoft|Morgan Stanley|Ola Cabs|OYO Rooms|Snapdeal|Walmart|,Medium,13047,49.62%
+DFS of Graph,https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1,DFS|Graph|,Accolite|Amazon|Intuit|Samsung|,Easy,35475,49.62%
+Level order traversal,https://practice.geeksforgeeks.org/problems/level-order-traversal/1,Tree|,Accolite|Adobe|Amazon|Cisco|D-E-Shaw|Flipkart|Microsoft|Morgan Stanley|Ola Cabs|Payu|Qualcomm|Samsung|,Easy,42232,49.61%
+Unique Numbers,https://practice.geeksforgeeks.org/problems/unique-numbers/0,Hash|,Amazon|,Basic,4902,49.55%
+Intersection Point in Y Shapped Linked Lists,https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1,Linked List|,Accolite|Adobe|Amazon|D-E-Shaw|FactSet|Flipkart|Goldman Sachs|MakeMyTrip|MAQ Software|Microsoft|Qualcomm|Snapdeal|Visa|VMWare|,Medium,44232,49.55%
+Print BST elements in given range,https://practice.geeksforgeeks.org/problems/print-bst-elements-in-given-range/1,Binary Search Tree|Tree|,Amazon|Flipkart|Microsoft|,Easy,19348,49.48%
+Max sum in the configuration,https://practice.geeksforgeeks.org/problems/max-sum-in-the-configuration/1,Arrays|,Amazon|,Easy,14795,49.48%
+k-th smallest element in BST,https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1,Binary Search Tree|,Accolite|Amazon|Google|,Medium,17971,49.44%
+Longest consecutive subsequence,https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0,Hash|,Amazon|Linkedin|Walmart|Zoho|,Medium,27905,49.37%
+"Given a linked list of 0s, 1s and 2s, sort it.",https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1,Linked List|,Amazon|MakeMyTrip|Microsoft|,Easy,25817,49.37%
+Sum of Query II,https://practice.geeksforgeeks.org/problems/sum-of-query-ii/0,Mathematical|,Amazon|,Medium,4119,49.34%
+Merge two sorted linked lists,https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1,Linked List|,Accolite|Amazon|Belzabar|Brocade|FactSet|Flipkart|MakeMyTrip|Microsoft|OATS Systems|Oracle|Samsung|Synopsys|Zoho|,Easy,36365,49.26%
+Second most repeated string in a sequence,https://practice.geeksforgeeks.org/problems/second-most-repeated-string-in-a-sequence/0,Strings|,Amazon|Goldman Sachs|,Easy,13854,49.23%
+Remove duplicates from an unsorted linked list,https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1,Linked List|,Amazon|Intuit|,Easy,26093,49.19%
+Preorder to Postorder,https://practice.geeksforgeeks.org/problems/preorder-to-postorder/0,Binary Search Tree|Stack|Tree|,Amazon|Linkedin|,Medium,12555,49.14%
+ZigZag Tree Traversal,https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1,Traversal|Tree|,Amazon|Cisco|FactSet|Hike|Snapdeal|Walmart|,Easy,9927,49.13%
+Count ways to N'th Stair(Order does not matter),https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter/0,Dynamic Programming|Mathematical|,Accolite|Amazon|,Medium,18232,49.09%
+Roman Number to Integer,https://practice.geeksforgeeks.org/problems/roman-number-to-integer/0,Strings|,Amazon|Facebook|Microsoft|Twitter|Zoho|,Easy,19127,49.07%
+Implementing Dijkstra | Set 1 (Adjacency Matrix),https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1,Graph|Greedy|,Adobe|Amazon|Cisco|Samsung|Vizury Interactive Solutions|,Medium,18739,49%
+Find whether path exist,https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0,BFS|Graph|Matrix|,Adobe|Amazon|Morgan Stanley|Samsung|,Medium,19193,48.96%
+Anagram,https://practice.geeksforgeeks.org/problems/anagram/0,Strings|,Amazon|Goldman Sachs|Nagarro|,Easy,49114,48.95%
+Maximum Intervals Overlap,https://practice.geeksforgeeks.org/problems/maximum-intervals-overlap/0,Sorting|,Accolite|Amazon|Directi|Visa|,Medium,8492,48.95%
+Check if string is rotated by two places,https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places/0,Strings|,Accolite|Amazon|,Basic,29286,48.94%
+Reverse a linked list,https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1,Linked List|,Accolite|Adobe|Amazon|Cisco|Cognizant|D-E-Shaw|Goldman Sachs|IgniteWorld|Intuit|Mahindra Comviva|MakeMyTrip|Microsoft|Paytm|Qualcomm|Samsung|SAP Labs|Snapdeal|Tejas Network|Teradata|VMWare|Walmart|Zoho|,Easy,80638,48.93%
+Index of first 1 in a sorted array of 0’s and 1’s,https://practice.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s/0,Arrays|,Amazon|MakeMyTrip|,Basic,11462,48.92%
+Extreme nodes in alternate order,https://practice.geeksforgeeks.org/problems/extreme-nodes-in-alternate-order/1,Tree|,Amazon|,Medium,6244,48.64%
+Remove “b” and “ac” from a given string,https://practice.geeksforgeeks.org/problems/remove-b-and-ac-from-a-given-string/0,Strings|,Amazon|Google|,Easy,8009,48.61%
+Leftmost and rightmost nodes of binary tree,https://practice.geeksforgeeks.org/problems/leftmost-and-rightmost-nodes-of-binary-tree/1,Tree|,Amazon|,Medium,6505,48.48%
+Count Substrings,https://practice.geeksforgeeks.org/problems/count-substrings/0,Strings|,Amazon|,Easy,11340,48.46%
+Word Break,https://practice.geeksforgeeks.org/problems/word-break/0,Dynamic Programming|,Amazon|Google|Hike|IBM|MAQ Software|Microsoft|Walmart|Zoho|,Medium,17438,48.46%
+Delete keys in a Linked list,https://practice.geeksforgeeks.org/problems/delete-keys-in-a-linked-list/1,Linked List|,Amazon|Samsung|,Medium,20645,48.44%
+Delete keys in a Linked list,https://practice.geeksforgeeks.org/problems/delete-keys-in-a-linked-list/1,Linked List|,Amazon|Samsung|,Medium,20645,48.44%
+Keypad typing,https://practice.geeksforgeeks.org/problems/keypad-typing/0,Strings|,Amazon|,Basic,8251,48.43%
+Find triplets with zero sum,https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1,Arrays|Hash|Searching|Sorting|two-pointer-algorithm|,Amazon|Facebook|Google|,Basic,25896,48.42%
+Minimum sum partition,https://practice.geeksforgeeks.org/problems/minimum-sum-partition/0,Dynamic Programming|,Amazon|Samsung|,Hard,21218,48.41%
+Peak element,https://practice.geeksforgeeks.org/problems/peak-element/1,Arrays|Searching|,Adobe|Amazon|Google|Visa|,Easy,30642,48.41%
+Reverse words in a given string,https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1,Strings|,Accolite|Adobe|Amazon|Cisco|Goldman Sachs|MakeMyTrip|Microsoft|Paytm|Samsung|SAP Labs|,Easy,9514,48.39%
+Infix to Postfix,https://practice.geeksforgeeks.org/problems/infix-to-postfix/0,Stack|,Amazon|Paytm|Samsung|VMWare|,Medium,17174,48.37%
+Box Stacking,https://practice.geeksforgeeks.org/problems/box-stacking/1,Dynamic Programming|,Amazon|Codenation|Microsoft|,Medium,10878,48.37%
+Maximum sum Rectangle,https://practice.geeksforgeeks.org/problems/maximum-sum-rectangle/0,Kadane|Matrix|,Accolite|Amazon|D-E-Shaw|FactSet|Samsung|Walmart|,Medium,7044,48.28%
+Delete node in Doubly Linked List,https://practice.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1,doubly-linked-list|Linked List|,Amazon|Walmart|,Basic,16112,48.28%
+Find Missing And Repeating,https://practice.geeksforgeeks.org/problems/find-missing-and-repeating/0,Arrays|,Amazon|D-E-Shaw|Goldman Sachs|MAQ Software|Samsung|,Medium,52918,48.21%
+Largest square formed in a matrix,https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0,Dynamic Programming|,Amazon|Samsung|,Medium,16580,48.14%
+"Sort an array of 0s, 1s and 2s",https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0,Arrays|Sorting|,Adobe|Amazon|Hike|MakeMyTrip|MAQ Software|Microsoft|Morgan Stanley|Ola Cabs|OYO Rooms|Paytm|Qualcomm|Samsung|SAP Labs|Snapdeal|Walmart|Yatra.com|,Easy,124181,48.12%
+Game of XOR,https://practice.geeksforgeeks.org/problems/game-of-xor/0,Bit Magic|Mathematical|,Amazon|,Easy,4654,48.03%
+Remove loop in Linked List,https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1,Linked List|two-pointer-algorithm|,Adobe|Amazon|Goldman Sachs|Kuliza|MakeMyTrip|Microsoft|Morgan Stanley|Netskope|Oracle|Qualcomm|Snapdeal|VMWare|Walmart|,Medium,62242,47.96%
+Rotate by 90 degree,https://practice.geeksforgeeks.org/problems/rotate-by-90-degree/0,Matrix|,Amazon|D-E-Shaw|Microsoft|Morgan Stanley|Paytm|Samsung|Snapdeal|Zoho|,Basic,14452,47.85%
+Unit Area of largest region of 1's,https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s/1,BFS|DFS|Graph|,Amazon|Flipkart|Microsoft|Ola Cabs|Salesforce|Samsung|,Medium,4061,47.81%
+Find the Odd Occurence,https://practice.geeksforgeeks.org/problems/find-the-odd-occurence/0,Arrays|Bit Magic|Hash|,Amazon|Snapdeal|,Basic,25106,47.80%
+Rearrange a linked list,https://practice.geeksforgeeks.org/problems/rearrange-a-linked-list/1,Linked List|,Amazon|,Easy,9784,47.79%
+Smallest subarray with sum greater than x,https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0,Arrays|,Accolite|Amazon|Facebook|Goldman Sachs|,Easy,13658,47.73%
+Equilibrium index of an array,https://practice.geeksforgeeks.org/problems/equilibrium-index-of-an-array/1,Arrays|,Amazon|,Easy,5016,47.65%
+Longest Repeating Subsequence,https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0,Dynamic Programming|,Amazon|,Easy,5984,47.58%
+Serialize and Deserialize a Binary Tree,https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1,Tree|,Accolite|Adobe|Amazon|Flipkart|InMobi|Linkedin|MAQ Software|Microsoft|Paytm|Quikr|Yahoo|,Medium,15891,47.46%
+Knapsack with Duplicate Items,https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items/0,Dynamic Programming|,Amazon|Google|,Easy,9489,47.43%
+Root to Leaf Paths,https://practice.geeksforgeeks.org/problems/root-to-leaf-paths/1,Tree|,Amazon|Paytm|,Easy,16391,47.42%
+Finding middle element in a linked list,https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1,Linked List|,Adobe|Amazon|Flipkart|GE|Hike|IgniteWorld|MAQ Software|Microsoft|Morgan Stanley|Nagarro|Netskope|Payu|Qualcomm|Samsung|SAP Labs|Veritas|VMWare|Wipro|Zoho|,Basic,77633,47.37%
+Swapping pairs make sum equal,https://practice.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal/0,Arrays|Hash|,Amazon|,Easy,13428,47.34%
+Reverse Level Order Traversal,https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1,Tree|,Adobe|Amazon|Cisco|FactSet|Flipkart|Microsoft|,Easy,26009,47.34%
+Queue using two Stacks,https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1,Queue|Stack|STL|,Accolite|Adobe|Amazon|D-E-Shaw|Flipkart|Goldman Sachs|Hike|InfoEdge|InMobi|MakeMyTrip|MAQ Software|Microsoft|Morgan Stanley|Oracle|Walmart|,Easy,32983,47.29%
+Minimum Energy,https://practice.geeksforgeeks.org/problems/minimum-energy/0,Arrays|,Amazon|,Easy,2289,47.28%
+Rotten Oranges,https://practice.geeksforgeeks.org/problems/rotten-oranges/0,Graph|Matrix|Queue|,Accolite|Amazon|MakeMyTrip|Microsoft|OYO Rooms|Samsung|,Medium,19944,47.28%
+Find a pair with given target in BST,https://practice.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1,Binary Search Tree|,Amazon|OYO Rooms|Snapdeal|VMWare|,Medium,13887,47.17%
+Length of the longest substring,https://practice.geeksforgeeks.org/problems/length-of-the-longest-substring/0,Strings|,Amazon|Morgan Stanley|Synopsys|,Medium,15834,47.09%
+Consecutive elements,https://practice.geeksforgeeks.org/problems/consecutive-elements/0,Strings|,Amazon|Paytm|Samsung|,Basic,6837,47.06%
+Zero Sum Subarrays,https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0,Arrays|Hash|,Amazon|Microsoft|OYO Rooms|,Medium,21652,47.01%
+Minimum Deletions,https://practice.geeksforgeeks.org/problems/minimum-deletitions/0,Dynamic Programming|Strings|,Amazon|,Easy,3557,47.01%
+"Count subsequences of type a^i, b^j, c^k",https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1,Dynamic Programming|Strings|,Amazon|,Medium,887,46.95%
+Largest subarray with 0 sum,https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1,Arrays|Hash|,Amazon|MakeMyTrip|,Easy,22946,46.94%
+At least two greater elements,https://practice.geeksforgeeks.org/problems/at-least-two-greater-elements/0,Arrays|Sorting|,Amazon|,School,7359,46.82%
+Check if array contains contiguous integers with duplicates allowed,https://practice.geeksforgeeks.org/problems/check-if-array-contains-contiguous-integers-with-duplicates-allowed/0,Arrays|Hash|Sorting|,Amazon|,Easy,14356,46.80%
+Quick Sort,https://practice.geeksforgeeks.org/problems/quick-sort/1,Divide and Conquer|Sorting|,Adobe|Amazon|Goldman Sachs|Grofers|Hike|HSBC|Ola Cabs|Qualcomm|Samsung|SAP Labs|Target Corporation|VMWare|,Easy,25184,46.80%
+Minimum Cost of ropes,https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0,Heap|Queue|,Amazon|Goldman Sachs|,Medium,26200,46.71%
+Distinct occurrences,https://practice.geeksforgeeks.org/problems/distinct-occurrences/1,Dynamic Programming|,Amazon|,Easy,6041,46.66%
+Nth node from end of linked list,https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1,Linked List|,Accolite|Adobe|Amazon|Citicorp|Epic Systems|FactSet|Hike|MAQ Software|Monotype Solutions|Morgan Stanley|OYO Rooms|Qualcomm|Samsung|Snapdeal|,Easy,65611,46.60%
+Single Number,https://practice.geeksforgeeks.org/problems/single-number/0,Arrays|,Amazon|,Easy,10341,46.55%
+Detect Loop in linked list,https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1,Linked List|two-pointer-algorithm|,Accolite|Amazon|D-E-Shaw|Hike|Lybrate|Mahindra Comviva|MakeMyTrip|MAQ Software|OYO Rooms|Paytm|Qualcomm|Samsung|SAP Labs|Snapdeal|Veritas|VMWare|Walmart|,Easy,93048,46.54%
+Third largest element,https://practice.geeksforgeeks.org/problems/third-largest-element/1,Arrays|,Amazon|,Basic,15256,46.52%
+k largest elements,https://practice.geeksforgeeks.org/problems/k-largest-elements/0,Arrays|Heap|Sorting|,Amazon|Google|Microsoft|Samsung|Walmart|,Basic,42909,46.48%
+Prime Number,https://practice.geeksforgeeks.org/problems/prime-number/0,Mathematical|Prime Number|,Amazon|SAP Labs|VMWare|,Basic,30969,46.32%
+Counting elements in two arrays,https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1,Arrays|Binary Search|Searching|,Amazon|,Easy,9765,46.29%
+Snake and Ladder Problem,https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem/0,BFS|DFS|Graph|,Adobe|Amazon|Belzabar|Flipkart|MAQ Software|Nutanix|OYO Rooms|Zoho|,Medium,15602,46.28%
+Convert to Roman No,https://practice.geeksforgeeks.org/problems/convert-to-roman-no/1,Strings|,Amazon|Facebook|InfoEdge|Microsoft|Twitter|,Basic,6256,46.19%
+Coin Change,https://practice.geeksforgeeks.org/problems/coin-change/0,Dynamic Programming|,Accolite|Amazon|Microsoft|Morgan Stanley|OYO Rooms|Paytm|Samsung|Snapdeal|,Medium,39512,46.07%
+Buildings receiving sunlight,https://practice.geeksforgeeks.org/problems/buildings-receiving-sunlight/0,Arrays|,Amazon|Microsoft|,Easy,9683,46.05%
+Binary Array Sorting,https://practice.geeksforgeeks.org/problems/binary-array-sorting5355/1,Arrays|Sorting|two-pointer-algorithm|,Accolite|Amazon|InfoEdge|Intuit|MakeMyTrip|Paytm|Zoho|,Basic,341,46.02%
+Excel Sheet | Part - 1,https://practice.geeksforgeeks.org/problems/excel-sheet/0,number-theory|,Accolite|Amazon|Directi|Microsoft|Paytm|Samsung|Zoho|,Medium,17613,46%
+Number of ways,https://practice.geeksforgeeks.org/problems/number-of-ways/0,Dynamic Programming|Mathematical|,Amazon|,Medium,9982,45.97%
+Minimum Spanning Tree,https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1,Graph|Greedy|,Amazon|Cisco|Samsung|,Medium,9379,45.90%
+Reverse a Linked List in groups of given size.,https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1,Linked List|,Accolite|Adobe|Amazon|Goldman Sachs|Hike|MakeMyTrip|Microsoft|Paytm|SAP Labs|Snapdeal|VMWare|Walmart|,Medium,47019,45.83%
+Number of 1's in smallest repunits,https://practice.geeksforgeeks.org/problems/number-of-1s-in-smallest-repunits/0,Mathematical|,Adobe|Amazon|,Easy,1838,45.68%
+Connect Nodes at Same Level,https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1,Tree|,Accolite|Adobe|Amazon|Boomerang Commerce|Flipkart|Google|Microsoft|Ola Cabs|Oracle|OYO Rooms|Xome|,Medium,37687,45.67%
+Boolean Matrix Problem,https://practice.geeksforgeeks.org/problems/boolean-matrix-problem/0,Arrays|Matrix|,Amazon|FactSet|Morgan Stanley|Ola Cabs|SAP Labs|,Medium,21537,45.62%
+Stock span problem,https://practice.geeksforgeeks.org/problems/stock-span-problem/0,Arrays|Stack|,Accolite|Amazon|D-E-Shaw|FactSet|Samsung|,Medium,25484,45.57%
+Kth largest element in a stream,https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream/0,Heap|,Amazon|Cisco|Hike|OYO Rooms|Walmart|,Medium,26384,45.55%
+Find first repeated character,https://practice.geeksforgeeks.org/problems/find-first-repeated-character/0,Hash|Strings|,Amazon|,Basic,16948,45.48%
+Unique BST's,https://practice.geeksforgeeks.org/problems/unique-bsts/1,Binary Search Tree|Dynamic Programming|,Amazon|Samsung|Twitter|,Medium,5712,45.36%
+Bottom View of Binary Tree,https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1,Tree|,Accolite|Amazon|CouponDunia|Flipkart|OYO Rooms|Paytm|Walmart|,Medium,31439,45.32%
+Next sparse binary number,https://practice.geeksforgeeks.org/problems/next-sparse-binary-number/0,Mathematical|,Amazon|,Easy,2124,45.23%
+Get Minimum Squares,https://practice.geeksforgeeks.org/problems/get-minimum-squares/0,Dynamic Programming|,Amazon|Wipro|,Easy,5121,45.15%
+Smallest Positive missing number,https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/1,Arrays|Searching|,Accolite|Amazon|Samsung|Snapdeal|,Medium,13393,45.09%
+Does robot moves circular,https://practice.geeksforgeeks.org/problems/does-robot-moves-circular/0,Strings|,Amazon|Visa|,Easy,4151,45.07%
+Min distance between two given nodes of a Binary Tree,https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1,Tree|,Amazon|Linkedin|MakeMyTrip|Ola Cabs|Qualcomm|Samsung|,Medium,17781,45.05%
+Max possible amount,https://practice.geeksforgeeks.org/problems/max-possible-amount/0,Dynamic Programming|,Amazon|,Medium,4861,44.98%
+Move all zeroes to end of array,https://practice.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array/0,Arrays|,Amazon|Bloomberg|Linkedin|Paytm|Samsung|SAP Labs|,Easy,29226,44.94%
+Generate Grey Code Sequences,https://practice.geeksforgeeks.org/problems/generate-grey-code-sequences/1,Bit Magic|Strings|,Amazon|Microsoft|,Easy,3357,44.92%
+Pairs of prime number,https://practice.geeksforgeeks.org/problems/pairs-of-prime-number/0,Mathematical|,Amazon|,Basic,7838,44.91%
+Check for subsequence,https://practice.geeksforgeeks.org/problems/check-for-subsequence/0,Strings|,Accolite|Amazon|Tesco|Zoho|,Basic,9822,44.90%
+Left out candies,https://practice.geeksforgeeks.org/problems/left-out-candies/0,Arrays|,Amazon|,Easy,3170,44.87%
+XOR Linked List,https://practice.geeksforgeeks.org/problems/xor-linked-list/1,doubly-linked-list|Linked List|,Accolite|Amazon|GE|,Easy,2163,44.87%
+Ways To Tile A Floor,https://practice.geeksforgeeks.org/problems/ways-to-tile-a-floor/0,Fibonacci|,Amazon|,Basic,18134,44.78%
+Gold Mine Problem,https://practice.geeksforgeeks.org/problems/gold-mine-problem/0,Dynamic Programming|,Amazon|Flipkart|,Easy,18069,44.76%
+Positive and negative elements,https://practice.geeksforgeeks.org/problems/positive-and-negative-elements/0,Arrays|,Amazon|,Basic,9375,44.74%
+Steps by Knight,https://practice.geeksforgeeks.org/problems/steps-by-knight/0,BFS|Graph|Queue|,Amazon|Goldman Sachs|Intuit|Linkedin|MakeMyTrip|OYO Rooms|,Medium,12400,44.64%
+Longest Palindromic Subsequence,https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence/0,Dynamic Programming|Strings|,Amazon|Linkedin|PayPal|Rivigo|SAP Labs|,Easy,17206,44.59%
+Sum of Left Leaf Nodes,https://practice.geeksforgeeks.org/problems/sum-of-left-leaf-nodes/1,Traversal|Tree|,Amazon|,Easy,7954,44.42%
+Max rectangle,https://practice.geeksforgeeks.org/problems/max-rectangle/1,Matrix|Stack|,Amazon|Directi|Intuit|MakeMyTrip|Microsoft|Samsung|,Medium,9548,44.34%
+Sum of Middle Elements of two sorted arrays,https://practice.geeksforgeeks.org/problems/sum-of-middle-elements-of-two-sorted-arrays/0,Arrays|Divide and Conquer|,Amazon|D-E-Shaw|,Easy,16567,44.28%
+Merging two unsorted arrays in sorted order,https://practice.geeksforgeeks.org/problems/merging-two-unsorted-arrays-in-sorted-order/0,Arrays|Sorting|,Amazon|,Easy,3234,44.24%
+Maximum of all subarrays of size k,https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0,Arrays|Queue|sliding-window|,Amazon|Cisco|Directi|Flipkart|SAP Labs|Zoho|,Medium,80838,44.16%
+Count distinct elements in every window,https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1,Arrays|Hash|sliding-window|,Accolite|Amazon|Microsoft|,Easy,35104,44.16%
+Handshakes,https://practice.geeksforgeeks.org/problems/handshakes/0,Recursion|,Amazon|,Medium,5928,44.12%
+Valid Substring,https://practice.geeksforgeeks.org/problems/valid-substring/0,Queue|Stack|Strings|,Amazon|,Easy,13238,43.83%
+Insert in a Sorted List,https://practice.geeksforgeeks.org/problems/insert-in-a-sorted-list/1,Linked List|,Amazon|SAP Labs|Wipro|,Easy,14034,43.83%
+Smallest distinct window,https://practice.geeksforgeeks.org/problems/smallest-distant-window/0,Arrays|Hash|sliding-window|Strings|,Amazon|Dailyhunt|,Medium,18472,43.80%
+Mountain Subarray Problem,https://practice.geeksforgeeks.org/problems/mountain-subarray-problem/1,Arrays|,Amazon|,Easy,481,43.67%
+Check if subtree,https://practice.geeksforgeeks.org/problems/check-if-subtree/1,Tree|,Adobe|Amazon|Cavisson System|MakeMyTrip|Microsoft|Morgan Stanley|OYO Rooms|SAP Labs|,Medium,20792,43.66%
+Max length chain,https://practice.geeksforgeeks.org/problems/max-length-chain/1,Dynamic Programming|Greedy|,Amazon|,Medium,25183,43.55%
+Count Palindrome Sub-Strings of a String,https://practice.geeksforgeeks.org/problems/count-palindrome-sub-strings-of-a-string/0,Dynamic Programming|Strings|,Amazon|Morgan Stanley|Ola Cabs|SAP Labs|,Medium,6573,43.39%
+Form a palindrome,https://practice.geeksforgeeks.org/problems/form-a-palindrome/0,Dynamic Programming|Strings|,Airtel|Amazon|Google|,Medium,26087,43.35%
+Level order traversal in spiral form,https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1,Recursion|Stack|Tree|,Accolite|Adobe|Amazon|Flipkart|Hike|Housing.com|MakeMyTrip|Microsoft|Morgan Stanley|Ola Cabs|Payu|Teradata|Walmart|,Easy,42045,43.27%
+Non Repeating Character,https://practice.geeksforgeeks.org/problems/non-repeating-character/0,Hash|Strings|,Accolite|Amazon|D-E-Shaw|Goldman Sachs|InfoEdge|MakeMyTrip|MAQ Software|Microsoft|Morgan Stanley|OATS Systems|Ola Cabs|OYO Rooms|Payu|Tejas Network|Teradata|Walmart|,Easy,33460,43.17%
+Alien Dictionary,https://practice.geeksforgeeks.org/problems/alien-dictionary/1,Graph|Sorting|Strings|,Amazon|Google|Microsoft|OYO Rooms|Walmart|,Hard,8902,43.15%
+Maximum Possible Sum of Products,https://practice.geeksforgeeks.org/problems/maximum-possible-sum-of-products/0,Mathematical|Sorting|,Accolite|Amazon|,Basic,2990,43.13%
+Elements in the Range,https://practice.geeksforgeeks.org/problems/elements-in-the-range/0,Arrays|Searching|,Amazon|,Basic,3977,43.13%
+Pairwise swap elements of a linked list,https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1,Linked List|,Amazon|Intuit|Microsoft|Moonfrog Labs|,Easy,36197,43.06%
+Anagram Palindrome,https://practice.geeksforgeeks.org/problems/anagram-palindrome/0,Hash|palindrome|Strings|,Amazon|D-E-Shaw|Snapdeal|,Basic,7345,43.02%
+Construct Binary Tree from Parent Array,https://practice.geeksforgeeks.org/problems/construct-binary-tree-from-parent-array/1,Tree|,Amazon|Microsoft|Snapdeal|,Medium,9757,43.01%
+Overlapping Intervals,https://practice.geeksforgeeks.org/problems/overlapping-intervals/0,Arrays|,Amazon|Google|Nutanix|,Medium,15845,42.98%
+Path in Matrix,https://practice.geeksforgeeks.org/problems/path-in-matrix/0,Dynamic Programming|Matrix|,Amazon|Flipkart|MakeMyTrip|OYO Rooms|Samsung|,Medium,25233,42.91%
+Segregate Even and Odd numbers,https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-numbers/0,Arrays|,Accolite|Amazon|Linkedin|MakeMyTrip|Paytm|,Basic,9304,42.81%
+Row with max 1s,https://practice.geeksforgeeks.org/problems/row-with-max-1s/0,Arrays|Matrix|,Amazon|Snapdeal|,Medium,16662,42.71%
+Maximum sum increasing subsequence,https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0,Dynamic Programming|,Amazon|Morgan Stanley|,Easy,56309,42.71%
+BFS of graph,https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1,BFS|Graph|,Adobe|Amazon|Flipkart|Microsoft|Ola Cabs|Samsung|SAP Labs|,Easy,47512,42.71%
+Leaders in an array,https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0,Arrays|Searching|,Amazon|Payu|Samsung|,Easy,135432,42.70%
+Count the elements,https://practice.geeksforgeeks.org/problems/count-the-elements/0,Arrays|Hash|,Amazon|Yatra.com|,Easy,13472,42.67%
+Relative Sorting,https://practice.geeksforgeeks.org/problems/relative-sorting/0,Hash|Searching|Sorting|,Amazon|Microsoft|,Medium,36120,42.53%
+Find the smallest and second smallest element in an array,https://practice.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array/0,Arrays|,Amazon|Goldman Sachs|,Basic,12631,42.53%
+Generate all palindromic numbers less than n,https://practice.geeksforgeeks.org/problems/generate-all-palindromic-numbers-less-than-n/0,Mathematical|,Amazon|,Easy,762,42.49%
+Trapping Rain Water,https://practice.geeksforgeeks.org/problems/trapping-rain-water/0,Arrays|,Accolite|Adobe|Amazon|Paytm|Payu|,Medium,64714,42.45%
+Kth largest element in BST,https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1,Binary Search Tree|Tree|,Accolite|Amazon|Samsung|SAP Labs|,Easy,20231,42.26%
+Floor in a Sorted Array,https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array/0,Searching|Sorting|,Amazon|,Easy,22321,42.25%
+Solve the Sudoku,https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0,Backtracking|Matrix|,Amazon|Directi|Flipkart|MakeMyTrip|MAQ Software|Microsoft|Ola Cabs|Oracle|PayPal|VMWare|Zoho|,Hard,19376,42.24%
+Common Subsequence,https://practice.geeksforgeeks.org/problems/common-subsequence/0,Strings|,Amazon|,Easy,6458,42.15%
+Count type of Characters,https://practice.geeksforgeeks.org/problems/count-type-of-characters/0,Strings|,Amazon|MakeMyTrip|,School,3218,42.08%
+Modify Linked List-1,https://practice.geeksforgeeks.org/problems/modify-linked-list-1/1,Linked List|,Amazon|,Easy,4305,42.08%
+First Repeating Element,https://practice.geeksforgeeks.org/problems/first-repeating-element/0,Arrays|Hash|,Amazon|Oracle|,Easy,23469,41.94%
+Smallest window in a string containing all the characters of another string,https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0,Hash|sliding-window|Strings|,Amazon|FactSet|Google|MakeMyTrip|Streamoid Technologies|Visa|,Medium,18674,41.94%
+Immediate Smaller Element,https://practice.geeksforgeeks.org/problems/immediate-smaller-element/0,Arrays|Stack|,Amazon|,Basic,84778,41.71%
+Max Sum without Adjacents,https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents/0,Arrays|,Amazon|FactSet|Oxigen Wallet|OYO Rooms|Paytm|Walmart|Yahoo|,Easy,17480,41.70%
+Anagram of String,https://practice.geeksforgeeks.org/problems/anagram-of-string/1,anagram|Strings|,Amazon|,Basic,7760,41.63%
+Print Common Nodes in BST,https://practice.geeksforgeeks.org/problems/print-common-nodes-in-bst/1,Binary Search Tree|Tree|,Amazon|,Easy,8430,41.59%
+Sorted subsequence of size 3,https://practice.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1,Arrays|,Amazon|FactSet|Walmart|,Easy,9160,41.58%
+Leaf at same level,https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1,Tree|,Amazon|,Easy,7461,41.57%
+Longest Prefix Suffix,https://practice.geeksforgeeks.org/problems/longest-prefix-suffix/0,Strings|,Accolite|Amazon|MakeMyTrip|,Medium,16964,41.50%
+Intersection of two arrays,https://practice.geeksforgeeks.org/problems/intersection-of-two-arrays/0,Hash|Mathematical|,Accolite|Amazon|PayPal|Rockstand|,Basic,14143,41.48%
+Merge Sort,https://practice.geeksforgeeks.org/problems/merge-sort/1,Divide and Conquer|Sorting|,Amazon|Boomerang Commerce|Goldman Sachs|Grofers|Medlife|Microsoft|Oracle|Paytm|Qualcomm|Snapdeal|Target Corporation|Wipro|,Easy,28739,41.46%
+Egg Dropping Puzzle,https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0,Dynamic Programming|,Amazon|D-E-Shaw|Goldman Sachs|Google|Hike|MakeMyTrip|MAQ Software|Myntra|nearbuy|Opera|Oracle|Philips|Samsung|Service Now|Unisys|VMWare|,Medium,28739,41.45%
+Merge K sorted linked lists,https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1,Heap|Linked List|,Amazon|VMWare|,Medium,14577,41.42%
+Binary Tree to DLL,https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1,Linked List|Tree|,Accolite|Amazon|Goldman Sachs|Microsoft|Morgan Stanley|Salesforce|Snapdeal|,Hard,32070,41.34%
+First and last occurrences of X,https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0,Arrays|Binary Search|,Amazon|,Basic,8999,41.23%
+Stepping Numbers,https://practice.geeksforgeeks.org/problems/stepping-numberswrong-output/0,BFS|DFS|,Amazon|,Medium,5721,41.07%
+Optimal Strategy For A Game,https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game/0,Dynamic Programming|,Amazon|Google|Hike|Linkedin|Microsoft|Salesforce|,Medium,7398,41.07%
+Wildcard Pattern Matching,https://practice.geeksforgeeks.org/problems/wildcard-pattern-matching/1,Dynamic Programming|,Amazon|InMobi|Ola Cabs|United Health Group|Walmart|Zoho|,Medium,10115,40.95%
+Count triplets with sum smaller than X,https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x/0,Arrays|two-pointer-algorithm|,Amazon|SAP Labs|,Basic,9691,40.87%
+Chocolate Station,https://practice.geeksforgeeks.org/problems/chocolate-station/0,Arrays|,Amazon|,Easy,6843,40.87%
+Subarray with 0 sum,https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0,Hash|Map|sliding-window|STL|,Amazon|MakeMyTrip|Paytm|,Easy,8978,40.52%
+Stack using two queues,https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1,Queue|Stack|,Accolite|Adobe|Amazon|Cisco|CouponDunia|D-E-Shaw|Grofers|Kritikal Solutions|Oracle|OYO Rooms|Snapdeal|,Easy,30855,40.49%
+Dice throw,https://practice.geeksforgeeks.org/problems/dice-throw/0,Mathematical|,Amazon|,Basic,9219,40.41%
+Largest Number formed from an Array,https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0,Arrays|,Amazon|MakeMyTrip|Microsoft|Paytm|Zoho|,Medium,41192,40.41%
+Count the triplets,https://practice.geeksforgeeks.org/problems/count-the-triplets/0,Sorting|two-pointer-algorithm|,Amazon|Arcesium|,Easy,48783,40.41%
+Nth catalan number,https://practice.geeksforgeeks.org/problems/nth-catalan-number/0,Dynamic Programming|Mathematical|,Amazon|,Easy,15303,40.39%
+Reach the Nth point,https://practice.geeksforgeeks.org/problems/reach-the-nth-point/0,Dynamic Programming|,Amazon|Intel|Morgan Stanley|,Easy,16099,40.10%
+Topological sort,https://practice.geeksforgeeks.org/problems/topological-sort/1,Graph|,Accolite|Amazon|Flipkart|Microsoft|Moonfrog Labs|Morgan Stanley|OYO Rooms|Samsung|Visa|,Medium,26679,40%
+Majority Element,https://practice.geeksforgeeks.org/problems/majority-element/0,Arrays|Searching|,Accolite|Amazon|D-E-Shaw|FactSet|MakeMyTrip|Microsoft|Nagarro|Samsung|,Basic,87406,39.96%
+Amount of Water,https://practice.geeksforgeeks.org/problems/amount-of-water/0,Arrays|,Adobe|Amazon|,Easy,8484,39.93%
+Ancestors in Binary Tree,https://practice.geeksforgeeks.org/problems/ancestors-in-binary-tree/1,Tree|,Amazon|,Easy,18458,39.92%
+Lowest Common Ancestor in a Binary Tree,https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1,Tree|,Accolite|Amazon|American Express|Cisco|Expedia|Flipkart|MakeMyTrip|Microsoft|OYO Rooms|PayPal|Payu|Snapdeal|Times Internet|Twitter|,Easy,32375,39.75%
+Absolute Difference of 1,https://practice.geeksforgeeks.org/problems/absolute-difference-1/0,Arrays|,Amazon|Jabong|,Basic,14066,39.66%
+Inorder Successor in BST,https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1,Binary Search Tree|,Amazon|Morgan Stanley|,Easy,17213,39.66%
+Unique partitions,https://practice.geeksforgeeks.org/problems/unique-partitions/0,Dynamic Programming|,Amazon|,Medium,953,39.50%
+The Celebrity Problem,https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1,Arrays|Stack|,Amazon|Fab.com|Flipkart|Google|Microsoft|One97|United Health Group|Zoho|,Medium,32520,39.46%
+Height of Spiral Tree,https://practice.geeksforgeeks.org/problems/height-of-spiral-tree/1,Tree|,Amazon|,Easy,4667,39.45%
+Searching an element in a sorted array,https://practice.geeksforgeeks.org/problems/who-will-win/0,Searching|,Amazon|Paytm|SAP Labs|,Basic,20157,39.35%
+Check if Linked List is Palindrome,https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1,Linked List|palindrome|,Accolite|Adobe|Amazon|KLA Tencor|Kritikal Solutions|Microsoft|Snapdeal|Yodlee Infotech|,Easy,70414,39.25%
+Level order traversal Line by Line,https://practice.geeksforgeeks.org/problems/level-order-traversal-line-by-line/1,Tree|,Amazon|Hike|Microsoft|Morgan Stanley|Snapdeal|,Easy,36911,39.18%
+Polynomial Addition,https://practice.geeksforgeeks.org/problems/polynomial-addition/1,Linked List|Mathematical|,Amazon|,Medium,7945,39.10%
+Special Keyboard,https://practice.geeksforgeeks.org/problems/special-keyboard/0,Dynamic Programming|Recursion|,Amazon|Google|Paytm|,Medium,16922,39.09%
+Max value,https://practice.geeksforgeeks.org/problems/max-value/0,Arrays|,Amazon|,Easy,9143,38.97%
+Magic Number,https://practice.geeksforgeeks.org/problems/magic-number/0,Mathematical|,Amazon|,Easy,4462,38.96%
+Check Mirror in N-ary tree,https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0,Queue|Stack|STL|Tree|,Amazon|D-E-Shaw|Hike|MakeMyTrip|,Medium,5521,38.96%
+Largest subarray of 0's and 1's,https://practice.geeksforgeeks.org/problems/largest-subarray-of-0s-and-1s/1,Hash|sliding-window|,Amazon|MakeMyTrip|Morgan Stanley|Paytm|,Easy,31994,38.92%
+Minimum distance between two numbers,https://practice.geeksforgeeks.org/problems/minimum-distance-between-two-numbers/1,Arrays|,Amazon|Paytm|,Basic,23576,38.90%
+Reverse alternate levels of a perfect binary tree,https://practice.geeksforgeeks.org/problems/reverse-alternate-levels-of-a-perfect-binary-tree/1,Tree|,Amazon|Hike|,Easy,5855,38.89%
+Wave Array,https://practice.geeksforgeeks.org/problems/wave-array/0,Arrays|,Amazon|FactSet|Goldman Sachs|Paytm|Zoho|,Easy,32747,38.81%
+Knight Walk,https://practice.geeksforgeeks.org/problems/knight-walk/0,BFS|DFS|Graph|,Amazon|Goldman Sachs|Google|Microsoft|,Medium,15530,38.68%
+Find the number of islands,https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1,DFS|Graph|,Amazon|Citrix|D-E-Shaw|Informatica|Intuit|Linkedin|Microsoft|Ola Cabs|One97|Opera|OYO Rooms|Paytm|Samsung|Snapdeal|Streamoid Technologies|Visa|,Medium,29021,38.66%
+Strongly Connected Components (Kosaraju's Algo),https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1,DFS|Graph|,Amazon|Visa|,Medium,7973,38.65%
+Count possible triangles,https://practice.geeksforgeeks.org/problems/count-possible-triangles/0,Arrays|Sorting|,Amazon|Linkedin|Wipro|,Basic,20833,38.62%
+URLify a given string,https://practice.geeksforgeeks.org/problems/urlify-a-given-string/0,Strings|,Amazon|FactSet|Microsoft|,Basic,7847,38.58%
+Product array puzzle,https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1,Arrays|Mathematical|,Accolite|Amazon|D-E-Shaw|Intuit|Morgan Stanley|Opera|,Easy,275,38.56%
+Palindrome numbers,https://practice.geeksforgeeks.org/problems/palindrome-numbers/0,Mathematical|,Adobe|Amazon|Microsoft|,Easy,4794,38.48%
+Missing number,https://practice.geeksforgeeks.org/problems/missing-number/0,Arrays|Mathematical|,Amazon|,Basic,11520,38.18%
+Minimum element in a sorted and rotated array,https://practice.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array/0,Searching|,Adobe|Amazon|Microsoft|Morgan Stanley|Samsung|Snapdeal|Times Internet|,Easy,31158,38.15%
+Search in a Rotated Array,https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0,Divide and Conquer|Searching|,Adobe|Amazon|BankBazaar|D-E-Shaw|FactSet|Flipkart|Hike|Intuit|MakeMyTrip|Microsoft|Paytm|Snapdeal|Times Internet|,Easy,44067,38.10%
+Pythagorean Triplet,https://practice.geeksforgeeks.org/problems/pythagorean-triplet/0,Arrays|,Amazon|,Basic,72376,38.09%
+Inversion of array,https://practice.geeksforgeeks.org/problems/inversion-of-array/0,Arrays|Sorting|,Adobe|Amazon|BankBazaar|Flipkart|Microsoft|Myntra|Ola Cabs|Walmart|,Medium,71697,38.06%
+Reverse words in a given string,https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0,Strings|,Accolite|Adobe|Amazon|Cisco|Goldman Sachs|MakeMyTrip|MAQ Software|Microsoft|Morgan Stanley|Ola Cabs|Paytm|Samsung|SAP Labs|Walmart|Wipro|Zoho|,Easy,78939,38.05%
+Sum equals to Sum,https://practice.geeksforgeeks.org/problems/sum-equals-to-sum/0,Arrays|Hash|,Amazon|,Easy,7702,37.92%
+Count the Reversals,https://practice.geeksforgeeks.org/problems/count-the-reversals/0,Queue|Stack|Strings|,Amazon|,Easy,7396,37.91%
+Save Knights,https://practice.geeksforgeeks.org/problems/save-knights/0,Mathematical|,Amazon|,Easy,1479,37.86%
+Left View of Binary Tree,https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1,Tree|,Accolite|Amazon|Flipkart|Knowlarity|MakeMyTrip|Ola Cabs|Open Solutions|OYO Rooms|Paytm|Qualcomm|Samsung|Snapdeal|Twitter|,Easy,76791,37.86%
+Maximum Product Subarray,https://practice.geeksforgeeks.org/problems/maximum-product-subarray/0,Arrays|,Amazon|D-E-Shaw|Microsoft|Morgan Stanley|OYO Rooms|,Easy,31922,37.82%
+Rat in a Maze Problem - I,https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1,Backtracking|,Amazon|,Medium,21144,37.73%
+Maximum of minimum for every window size,https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size/0,sliding-window|Stack|,Amazon|,Hard,8781,37.70%
+Solve the Sudoku,https://practice.geeksforgeeks.org/problems/solve-the-sudoku/1,Backtracking|Matrix|,Amazon|Directi|Flipkart|MakeMyTrip|MAQ Software|Microsoft|Ola Cabs|Oracle|PayPal|Zoho|,Hard,1707,37.69%
+Count distinct pairs with difference k,https://practice.geeksforgeeks.org/problems/count-distinct-pairs-with-difference-k/0,Hash|Map|,Amazon|Facebook|,Easy,8017,37.63%
+Equilibrium point,https://practice.geeksforgeeks.org/problems/equilibrium-point/0,Arrays|prefix-sum|,Accolite|Adobe|Amazon|Hike|Zoho|,Easy,134671,37.39%
+Max sum path in two arrays,https://practice.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/1,Arrays|,Amazon|,Easy,10217,37.39%
+Longest increasing subarray,https://practice.geeksforgeeks.org/problems/longest-increasing-subarray/0,Arrays|,Amazon|,Basic,2375,37.29%
+Check if two Nodes are Cousins,https://practice.geeksforgeeks.org/problems/check-if-two-nodes-are-cousins/1,Tree|,Amazon|D-E-Shaw|,Easy,9796,37.29%
+Delete N nodes after M nodes of a linked list,https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1,Linked List|,Amazon|Microsoft|,Easy,19911,37.19%
+AVL Tree Insertion,https://practice.geeksforgeeks.org/problems/avl-tree-insertion/1,Binary Search Tree|Tree|,Amazon|Citicorp|Informatica|MakeMyTrip|Morgan Stanley|Oracle|Oxigen Wallet|Snapdeal|,Hard,4875,37.12%
+Combination Sum - Part 2,https://practice.geeksforgeeks.org/problems/combination-sum-part-2/0,Backtracking|Recursion|,ABCO|Accolite|Amazon|Infosys|Microsoft|,Medium,17757,37.11%
+Interleaved Strings,https://practice.geeksforgeeks.org/problems/interleaved-strings/1,Dynamic Programming|Strings|,Amazon|FactSet|Google|Microsoft|Paytm|Yahoo|Zillious|,Medium,21630,37%
+Search in a matrix,https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0,Matrix|Searching|,Accolite|Adobe|Amazon|Directi|Goldman Sachs|Groupon|InMobi|MakeMyTrip|Ola Cabs|One97|Oracle|Paytm|Polycom|SAP Labs|Snapdeal|TinyOwl|Visa|,Easy,26720,36.82%
+Array Pair Sum Divisibility Problem,https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem/0,Hash|STL|,Amazon|Directi|Goldman Sachs|,Medium,23395,36.76%
+Find k-th character in string,https://practice.geeksforgeeks.org/problems/find-k-th-character-in-string/0,Strings|,Amazon|,Basic,10970,36.71%
+Linked List that is Sorted Alternatingly,https://practice.geeksforgeeks.org/problems/linked-list-that-is-sorted-alternatingly/1,Linked List|Sorting|,Amazon|,Easy,5339,36.44%
+Find Pair Given Difference,https://practice.geeksforgeeks.org/problems/find-pair-given-difference/0,Binary Search|Sorting|,Amazon|Visa|,Easy,7617,36.40%
+Construct Tree from Inorder & Preorder,https://practice.geeksforgeeks.org/problems/construct-tree-1/1,Tree|,Accolite|Amazon|Microsoft|,Easy,15919,36.26%
+"Given a linked list, reverse alternate nodes and append at the end",https://practice.geeksforgeeks.org/problems/given-a-linked-list-reverse-alternate-nodes-and-append-at-the-end/1,Linked List|,Amazon|Walmart|,Medium,5970,36.15%
+Top k numbers in a stream,https://practice.geeksforgeeks.org/problems/top-k-numbers/0,Arrays|Map|priority-queue|,Accolite|Amazon|,Medium,3629,36.08%
+Print matrix in diagonal pattern,https://practice.geeksforgeeks.org/problems/print-matrix-in-diagonal-pattern/1,Matrix|,Amazon|,Easy,982,36.07%
+Replace by X,https://practice.geeksforgeeks.org/problems/replace-by-x/0,Searching|Strings|,Amazon|FactSet|,Easy,4025,35.96%
+Longest Common Substring,https://practice.geeksforgeeks.org/problems/longest-common-substring/0,Dynamic Programming|Strings|,Amazon|Microsoft|Morgan Stanley|,Medium,40718,35.96%
+0 - 1 Knapsack Problem,https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0,Dynamic Programming|,Amazon|Directi|Flipkart|GreyOrange|MakeMyTrip|Microsoft|Mobicip|Morgan Stanley|Oracle|Payu|Snapdeal|Visa|Zoho|,Easy,74249,35.71%
+Detect cycle in an undirected graph,https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1,DFS|Graph|union-find|,Adobe|Amazon|Flipkart|MakeMyTrip|Oracle|Samsung|,Medium,35053,35.66%
+Three Great Candidates,https://practice.geeksforgeeks.org/problems/three-great-candidates/0,Arrays|,Amazon|Snapdeal|,Easy,24810,35.56%
+Maximum average subarray,https://practice.geeksforgeeks.org/problems/maximum-average-subarray/0,Arrays|,Amazon|,Easy,2302,35.53%
+Find first set bit,https://practice.geeksforgeeks.org/problems/find-first-set-bit/0,Bit Magic|,Amazon|,Basic,32563,35.22%
+AVL Tree Deletion,https://practice.geeksforgeeks.org/problems/avl-tree-deletion/1,AVL-Tree|Tree|,Amazon|MakeMyTrip|Morgan Stanley|Oracle|Oxigen Wallet|Snapdeal|,Hard,2720,35.22%
+Arrange Consonants and Vowels,https://practice.geeksforgeeks.org/problems/arrange-consonants-and-vowels/1,Linked List|,Amazon|,Easy,3585,35.21%
+Rotate and delete,https://practice.geeksforgeeks.org/problems/rotate-and-delete/0,Arrays|,Amazon|MakeMyTrip|Paytm|SAP Labs|Wipro|,Medium,25251,35.14%
+Power of Numbers,https://practice.geeksforgeeks.org/problems/power-of-numbers/0,Divide and Conquer|Mathematical|Recursion|,Amazon|MakeMyTrip|MAQ Software|Walmart|,Easy,10961,35.09%
+Spirally traversing a matrix,https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0,Arrays|Matrix|,Accolite|Adobe|Amazon|BrowserStack|D-E-Shaw|FactSet|MakeMyTrip|MAQ Software|Microsoft|Morgan Stanley|Nagarro|nearbuy|Oracle|OYO Rooms|Paytm|Salesforce|Snapdeal|Zoho|,Easy,47929,35.07%
+Triplet Sum in Array,https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0,Arrays|Sorting|two-pointer-algorithm|,Accolite|Amazon|CarWale|Facebook|Morgan Stanley|OYO Rooms|Samsung|Walmart|,Easy,25799,34.90%
+Maximum difference between node and its ancestor,https://practice.geeksforgeeks.org/problems/maximum-difference-between-node-and-its-ancestor/1,Tree|,Amazon|,Medium,25290,34.85%
+Delete a node from BST,https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1,Binary Search Tree|,Accolite|Adobe|Amazon|Qualcomm|Samsung|,Medium,26048,34.76%
+Jumping Numbers,https://practice.geeksforgeeks.org/problems/jumping-numbers/0,Mathematical|,Amazon|,Medium,25380,34.69%
+Possible groups,https://practice.geeksforgeeks.org/problems/possible-groups/0,Arrays|,Amazon|,Medium,7589,34.66%
+Is Binary Number Multiple of 3,https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-3/0,Bit Magic|,Adobe|Amazon|Microsoft|,Medium,33468,34.64%
+Find first and last occurrence of x,https://practice.geeksforgeeks.org/problems/find-first-and-last-occurrence-of-x/0,Arrays|,Amazon|,Basic,21044,34.60%
+Finding the numbers,https://practice.geeksforgeeks.org/problems/finding-the-numbers/0,Bit Magic|,Accolite|Amazon|FactSet|Google|MakeMyTrip|Microsoft|Qualcomm|,Easy,31866,34.55%
+Longest Distinct characters in string,https://practice.geeksforgeeks.org/problems/longest-distinct-characters-in-string/0,Strings|,Adobe|Amazon|Housing.com|Microsoft|,Easy,37074,34.50%
+Longest Sub-Array with Sum K,https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k/0,Arrays|Hash|Map|sliding-window|,Amazon|,Medium,7679,34.38%
+Count all possible paths from top left to bottom right,https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right/0,Dynamic Programming|,Amazon|Cisco|Linkedin|Ola Cabs|Paytm|Walmart|,Easy,23920,34.37%
+Longest K unique characters substring,https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring/0,Hash|Map|Strings|,Amazon|Google|SAP Labs|,Easy,7528,34.33%
+Minimum Difference among K,https://practice.geeksforgeeks.org/problems/minimum-difference-among-k/0,Arrays|Sorting|,Amazon|,Basic,1148,34.32%
+Find the median,https://practice.geeksforgeeks.org/problems/find-the-median/0,Divide and Conquer|Mathematical|,Accolite|Amazon|FactSet|Samsung|,School,6927,34.25%
+Maximum Sub Array,https://practice.geeksforgeeks.org/problems/maximum-sub-array/0,Arrays|,Amazon|Intuit|,Medium,17495,34.22%
+Maximum repeating number,https://practice.geeksforgeeks.org/problems/maximum-repeating-number/0,Arrays|,Accolite|Amazon|,Basic,7298,34.20%
+Combination Sum,https://practice.geeksforgeeks.org/problems/combination-sum/0,Backtracking|Recursion|,Adobe|Amazon|Microsoft|,Medium,13566,33.99%
+Flattening a Linked List,https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1,Linked List|,24*7 Innovation Labs|Amazon|Drishti-Soft|Flipkart|Goldman Sachs|Microsoft|Paytm|Payu|Qualcomm|Snapdeal|Visa|,Medium,33226,33.91%
+Circular tour,https://practice.geeksforgeeks.org/problems/circular-tour/1,Queue|two-pointer-algorithm|,Amazon|FactSet|Microsoft|Morgan Stanley|Zoho|,Medium,30714,33.91%
+Largest number in K swaps,https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps/0,Backtracking|,Amazon|MakeMyTrip|Morgan Stanley|VMWare|Walmart|,Medium,10699,33.85%
+Check if given four points form a square,https://practice.geeksforgeeks.org/problems/check-if-given-four-points-form-a-square/0,Mathematical|,Amazon|,Basic,9765,33.81%
+String formation from substring,https://practice.geeksforgeeks.org/problems/string-formation-from-substring/0,Strings|,Amazon|MakeMyTrip|,Medium,8479,33.72%
+Good or Bad string,https://practice.geeksforgeeks.org/problems/good-or-bad-string/0,Strings|,Adobe|Amazon|,Basic,8075,33.59%
+Water Overflow,https://practice.geeksforgeeks.org/problems/champagne-overflow/0,Dynamic Programming|,Amazon|D-E-Shaw|,Medium,13286,33.51%
+Type of array,https://practice.geeksforgeeks.org/problems/type-of-array/0,Arrays|,Amazon|,Basic,18385,33.48%
+Game with String,https://practice.geeksforgeeks.org/problems/game-with-string/0,Misc|,Amazon|,Easy,6055,33.43%
+Longest Common Subsequence,https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0,Dynamic Programming|,Amazon|Citrix|FactSet|Hike|MakeMyTrip|Paytm|VMWare|,Medium,70728,33.33%
+Edit Distance,https://practice.geeksforgeeks.org/problems/edit-distance/0,Dynamic Programming|,Amazon|Goldman Sachs|,Medium,57172,33.33%
+Rotate a Linked List,https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1,Linked List|,Accolite|Amazon|MakeMyTrip|,Easy,56319,33.33%
+Sum Tree,https://practice.geeksforgeeks.org/problems/sum-tree/1,Tree|,Adobe|Amazon|D-E-Shaw|Goldman Sachs|,Easy,47575,33.33%
+Next larger element,https://practice.geeksforgeeks.org/problems/next-larger-element/0,Stack|,Amazon|Flipkart|OYO Rooms|Samsung|Snapdeal|Zoho|,Medium,92557,33.32%
+String Modification,https://practice.geeksforgeeks.org/problems/string-modification/1,Strings|,Amazon|,Easy,1590,33.30%
+Run Length Encoding,https://practice.geeksforgeeks.org/problems/run-length-encoding/1,Strings|,Amazon|CouponDunia|FactSet|Goldman Sachs|Microsoft|VMWare|Zoho|,Easy,16481,33.12%
+Check if a number can be expressed as x^y,https://practice.geeksforgeeks.org/problems/check-if-a-number-can-be-expressed-as-xy/0,Mathematical|,Amazon|Housing.com|,Basic,8114,33.10%
+Minimum number of jumps,https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0,Dynamic Programming|,Adobe|Amazon|Housing.com|Moonfrog Labs|OYO Rooms|SAP Labs|Walmart|,Medium,80654,33.07%
+Make a Distinct Digit Array,https://practice.geeksforgeeks.org/problems/make-a-distinct-digit-array/0,|,Amazon|MakeMyTrip|Zoho|,Basic,4618,33.07%
+Swap Kth nodes from ends,https://practice.geeksforgeeks.org/problems/swap-kth-node-from-beginning-and-kth-node-from-end-in-a-singly-linked-list/1,Linked List|,Amazon|Morgan Stanley|,Medium,4860,33.07%
+Hamiltonian Path,https://practice.geeksforgeeks.org/problems/hamiltonian-path/0,Backtracking|DFS|Graph|,Amazon|,Medium,7799,33.06%
+Missing number in array,https://practice.geeksforgeeks.org/problems/missing-number-in-array/0,Arrays|Bit Magic|Searching|,Accolite|Adobe|Amazon|Cisco|D-E-Shaw|Intuit|Microsoft|Morgan Stanley|Ola Cabs|Payu|Qualcomm|Visa|,Basic,200477,32.98%
+Stickler Thief,https://practice.geeksforgeeks.org/problems/stickler-theif/0,Arrays|Dynamic Programming|,Accolite|Amazon|OYO Rooms|Paytm|Walmart|,Easy,35288,32.98%
+Kadane's Algorithm,https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0,Arrays|Dynamic Programming|,24*7 Innovation Labs|Accolite|Amazon|Citrix|D-E-Shaw|FactSet|Flipkart|Hike|Housing.com|MakeMyTrip|MetLife|Microsoft|Morgan Stanley|Ola Cabs|Oracle|OYO Rooms|Payu|Samsung|Snapdeal|Teradata|Visa|VMWare|Walmart|Zoho|,Medium,182106,32.92%
+Value equal to index value,https://practice.geeksforgeeks.org/problems/value-equal-to-index-value/0,Arrays|Searching|,Amazon|FactSet|Hike|,School,23053,32.91%
+Implement Atoi,https://practice.geeksforgeeks.org/problems/implement-atoi/1,Strings|,Adobe|Amazon|Code Brew|Microsoft|Morgan Stanley|Payu|,Basic,36894,32.90%
+Kth distance,https://practice.geeksforgeeks.org/problems/kth-distance/0,Arrays|,Amazon|,Easy,4886,32.83%
+N-Queen Problem,https://practice.geeksforgeeks.org/problems/n-queen-problem/0,Backtracking|,Accolite|Amazon|Amdocs|D-E-Shaw|MAQ Software|Twitter|Visa|,Hard,23050,32.75%
+Insert a node in a BST,https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1,Binary Search Tree|,Accolite|Amazon|Microsoft|Paytm|Samsung|,Easy,32373,32.70%
+Maximize The Cut Segments,https://practice.geeksforgeeks.org/problems/cutted-segments/0,Dynamic Programming|,Amazon|OYO Rooms|,Easy,31463,32.64%
+A Simple Fraction,https://practice.geeksforgeeks.org/problems/a-simple-fraction/0,Hash|Mathematical|,Amazon|Microsoft|,Hard,13705,32.62%
+Smallest window in a string containing all the characters of another string,https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/1,Hash|sliding-window|Strings|,Amazon|Google|MakeMyTrip|Streamoid Technologies|,Easy,1771,32.51%
+Binary Heap Operations,https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1,Heap|,Amazon|Ola Cabs|Samsung|Synopsys|Walmart|,Easy,16483,32.50%
+Permutations of a given string,https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0,Recursion|Strings|,Accolite|Amazon|Cisco|Citrix|MAQ Software|OYO Rooms|Samsung|Snapdeal|Walmart|Zoho|,Basic,70438,32.48%
+Vertical Traversal of Binary Tree,https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1,Tree|,Accolite|Amazon|BrowserStack|Dell|Flipkart|Grofers|MakeMyTrip|Netskope|Walmart|,Medium,47302,32.45%
+Merge Lists Alternatingly,https://practice.geeksforgeeks.org/problems/merge-list-alternatingly/1,Linked List|,Amazon|,Easy,6330,32.45%
+Palindromic patitioning,https://practice.geeksforgeeks.org/problems/palindromic-patitioning/0,Dynamic Programming|,Amazon|,Easy,7501,32.42%
+Pascal Triangle,https://practice.geeksforgeeks.org/problems/pascal-triangle/0,Arrays|,Adobe|Amazon|,School,6978,32.34%
+Top View of Binary Tree,https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1,BFS|Hash|Queue|Tree|,Amazon|Ola Cabs|Paytm|Samsung|Walmart|,Medium,32149,32.30%
+M-Coloring Problem,https://practice.geeksforgeeks.org/problems/m-coloring-problem/1,Backtracking|,Amazon|,Medium,594,32.28%
+Find second largest element,https://practice.geeksforgeeks.org/problems/find-second-largest-element/0,Arrays|,Accolite|Amazon|FactSet|SAP Labs|Times Internet|Zoho|,Basic,15067,32.17%
+Array of alternate +ve and -ve no.s,https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos/0,Arrays|,Amazon|Paytm|VMWare|,Basic,16507,32.07%
+First non-repeating character in a stream,https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0,Hash|Linked List|Queue|,Adobe|Amazon|FactSet|Flipkart|Microsoft|Payu|Yahoo|,Medium,38976,32.04%
+Print Nodes having K leaves,https://practice.geeksforgeeks.org/problems/print-nodes-having-k-leaves/1,Tree|,Amazon|,Medium,7641,31.99%
+Sub-Array sum divisible by K,https://practice.geeksforgeeks.org/problems/sub-array-sum-divisible-by-k/0,Arrays|,Amazon|Paytm|,Easy,2716,31.91%
+Longest consecutive subsequence,https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1,Hash|,Amazon|Walmart|,Medium,6576,31.83%
+Array to BST,https://practice.geeksforgeeks.org/problems/array-to-bst/0,Binary Search Tree|Tree|,Adobe|Amazon|Cisco|Snapdeal|VMWare|,Easy,24112,31.73%
+Longest Palindrome in a String,https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0,Strings|,Accolite|Amazon|Groupon|MakeMyTrip|Microsoft|Qualcomm|Samsung|Visa|Walmart|Zoho|,Medium,76587,31.67%
+Find nth element of spiral matrix,https://practice.geeksforgeeks.org/problems/find-nth-element-of-spiral-matrix/1,Matrix|,Amazon|,Easy,3407,31.44%
+Palindrome String,https://practice.geeksforgeeks.org/problems/palindrome-string/0,Strings|,Amazon|Cisco|D-E-Shaw|Facebook|FactSet|Morgan Stanley|Paytm|Zoho|,School,40950,31.41%
+Maximum Index,https://practice.geeksforgeeks.org/problems/maximum-index/0,Arrays|,Amazon|Google|Snapdeal|VMWare|,Medium,99460,31.25%
+Maximize Number of 1's,https://practice.geeksforgeeks.org/problems/maximize-number-of-1s/0,Arrays|,Accolite|Amazon|,Easy,6852,31.21%
+Median of BST,https://practice.geeksforgeeks.org/problems/median-of-bst/1,Binary Search Tree|Traversal|,Amazon|,Easy,7426,31.18%
+Permutation with Spaces,https://practice.geeksforgeeks.org/problems/permutation-with-spaces/0,Backtracking|Recursion|,Amazon|,Easy,6305,31.13%
+Power of 2,https://practice.geeksforgeeks.org/problems/power-of-2/0,Bit Magic|Mathematical|,Adobe|Amazon|BankBazaar|FactSet|Intel|Mallow Technologies|Microsoft|Oracle|Practo|Qualcomm|Samsung|SAP Labs|,Basic,85225,30.97%
+Subsets,https://practice.geeksforgeeks.org/problems/subsets/0,Backtracking|,Amazon|Microsoft|PayPal|,Medium,6598,30.97%
+Professor and Parties,https://practice.geeksforgeeks.org/problems/professor-and-parties/0,Arrays|,Amazon|,Basic,6646,30.96%
+Largest BST,https://practice.geeksforgeeks.org/problems/largest-bst/1,Binary Search Tree|Tree|,Amazon|D-E-Shaw|Samsung|,Medium,17902,30.88%
+Longest Arithmetic Progression,https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression/0,Arrays|Dynamic Programming|,Amazon|Snapdeal|,Medium,7885,30.81%
+Huffman Encoding,https://practice.geeksforgeeks.org/problems/huffman-encoding/0,Heap|priority-queue|,Amazon|Morgan Stanley|Samsung|United Health Group|,Medium,8327,30.76%
+Print all possible strings,https://practice.geeksforgeeks.org/problems/print-all-possible-strings/1,Recursion|Strings|,Amazon|,Basic,3555,30.76%
+Equal point in a string of brackets,https://practice.geeksforgeeks.org/problems/find-equal-point-in-string-of-brackets/0,Arrays|Strings|,Amazon|,Easy,4201,30.62%
+Count ways to reach the n'th stair,https://practice.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair/0,Dynamic Programming|,Accolite|Amazon|Linkedin|OYO Rooms|Snapdeal|,Medium,42889,30.61%
+Special Matrix,https://practice.geeksforgeeks.org/problems/special-matrix/0,Dynamic Programming|,Amazon|,Medium,9812,30.60%
+Find median in a stream,https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0,Heap|,Adobe|Amazon|Apple|Belzabar|D-E-Shaw|Facebook|FactSet|Flipkart|Google|Hike|Intuit|MAQ Software|Microsoft|Morgan Stanley|Ola Cabs|Oracle|OYO Rooms|Samsung|SAP Labs|Walmart|Yahoo|,Hard,55582,30.57%
+Smallest range in K lists,https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1,Arrays|Heap|,Amazon|Flipkart|,Medium,3236,30.54%
+Nth Fibonacci Number,https://practice.geeksforgeeks.org/problems/nth-fibonacci-number/0,Fibonacci|Mathematical|,Adobe|Amazon|Goldman Sachs|MakeMyTrip|MAQ Software|OYO Rooms|Snapdeal|,Basic,44930,30.44%
+Stock buy and sell,https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0,Arrays|,Accolite|Amazon|D-E-Shaw|Directi|Facebook|Flipkart|Goldman Sachs|Hike|Intuit|MakeMyTrip|Microsoft|Morgan Stanley|Ola Cabs|Oracle|Paytm|Pubmatic|Quikr|Salesforce|Samsung|SAP Labs|Sapient|Swiggy|Walmart|,Medium,91414,30.43%
+Reverse sub array,https://practice.geeksforgeeks.org/problems/reverse-sub-array/0,Arrays|,Amazon|,Basic,8088,30.34%
+Detect cycle in a directed graph,https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1,Graph|,Adobe|Amazon|BankBazaar|Flipkart|Goldman Sachs|MakeMyTrip|Microsoft|Oracle|Rockstand|Samsung|,Medium,48462,30.19%
+Add two numbers represented by linked lists,https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1,Linked List|,Accolite|Amazon|Flipkart|MakeMyTrip|Microsoft|Morgan Stanley|Qualcomm|Snapdeal|,Easy,45627,30.12%
+Column name from a given column number,https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number/0,Mathematical|Strings|,Amazon|Directi|Goldman Sachs|Microsoft|Paytm|Samsung|,Easy,21937,30.03%
+Row with minimum number of 1's,https://practice.geeksforgeeks.org/problems/row-with-minimum-number-of-1s/0,Matrix|,Amazon|,Medium,15960,29.94%
+Find if string is K-Palindrome or not,https://practice.geeksforgeeks.org/problems/find-if-string-is-k-palindrome-or-not/0,Dynamic Programming|,Amazon|,Easy,2464,29.93%
+Reverse array in groups,https://practice.geeksforgeeks.org/problems/reverse-array-in-groups/0,Arrays|,Amazon|,Basic,55918,29.87%
+Next greater number set digits,https://practice.geeksforgeeks.org/problems/next-greater-number-set-digits/0,Searching|,Adobe|Amazon|Hike|Microsoft|Morgan Stanley|Oxigen Wallet|Samsung|Snapdeal|Vizury Interactive Solutions|Zillious|,Easy,17996,29.84%
+Sum of two numbers represented as arrays,https://practice.geeksforgeeks.org/problems/sum-of-two-numbers-represented-as-arrays/0,Arrays|,Accolite|Amazon|Zoho|,Easy,9349,29.72%
+Add Binary Strings,https://practice.geeksforgeeks.org/problems/add-binary-strings/0,Mathematical|Strings|,Amazon|Facebook|Microsoft|,Easy,6094,29.72%
+Flip Bits,https://practice.geeksforgeeks.org/problems/flip-bits/0,Arrays|Bit Magic|,Amazon|,Easy,12128,29.61%
+Intersection of two sorted Linked lists,https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1,Linked List|Sorting|,Amazon|D-E-Shaw|Microsoft|Zopper|,Easy,26925,29.44%
+Smallest Positive missing number,https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/0,Arrays|,Accolite|Amazon|FactSet|OYO Rooms|Samsung|Snapdeal|,Medium,35242,29.41%
+Word with maximum frequency,https://practice.geeksforgeeks.org/problems/word-with-maximum-frequency/0,Arrays|Map|Strings|,Amazon|,Easy,1379,29.23%
+Let's Play!!!,https://practice.geeksforgeeks.org/problems/lets-play/0,Matrix|,Amazon|Zoho|,Easy,1598,29.21%
+Multiply two linked lists,https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1,Linked List|Modular Arithmetic|,Amazon|,Easy,9538,29.07%
+Phone directory,https://practice.geeksforgeeks.org/problems/phone-directory/0,Map|Trie|,Amazon|Microsoft|Snapdeal|,Hard,10699,29.06%
+Validate an IP Address,https://practice.geeksforgeeks.org/problems/validate-an-ip-address/1,Strings|,Amazon|Microsoft|Qualcomm|Zoho|,Easy,24647,29.04%
+Two numbers with sum closest to zero,https://practice.geeksforgeeks.org/problems/two-numbers-with-sum-closest-to-zero/0,Sorting|two-pointer-algorithm|,Accolite|Amazon|Fab.com|Microsoft|Snapdeal|,Easy,22335,29.03%
+Left Rotate Matrix K times,https://practice.geeksforgeeks.org/problems/left-rotate-matrix-k-times/0,Matrix|,Amazon|,Basic,7010,28.96%
+Distance of nearest cell having 1,https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1/0,BFS|Graph|Matrix|,Amazon|,Medium,3135,28.94%
+Next Smallest Palindrome,https://practice.geeksforgeeks.org/problems/next-smallest-palindrome/0,Arrays|,Amazon|Flipkart|Microsoft|OYO Rooms|,Hard,8397,28.83%
+Unique rows in boolean matrix,https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1,Matrix|set|Trie|,Amazon|Zoho|,Easy,5626,28.76%
+Betting game,https://practice.geeksforgeeks.org/problems/betting-game/0,Strings|,Amazon|,Medium,6810,28.65%
+Overlapping Intervals,https://practice.geeksforgeeks.org/problems/overlapping-intervals4919/1,Arrays|,Amazon|Google|Nutanix|,Medium,241,28.63%
+Final Destination,https://practice.geeksforgeeks.org/problems/final-destination/0,Mathematical|,Amazon|Samsung|Zoho|,Easy,2762,28.43%
+Tic-Tac-Toe,https://practice.geeksforgeeks.org/problems/tic-tac-toe/0,Arrays|,Accolite|Amazon|Flipkart|Microsoft|,Medium,11581,28.41%
+Equal to product,https://practice.geeksforgeeks.org/problems/equal-to-product/0,Arrays|,Amazon|Visa|,Easy,31563,28.38%
+Longest Increasing Subsequence,https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0,Dynamic Programming|,Amazon|BankBazaar|OYO Rooms|Paytm|Samsung|Zoho|,Medium,91650,28.09%
+Numbers with same first and last digit,https://practice.geeksforgeeks.org/problems/numbers-with-same-first-and-last-digit/0,Mathematical|number-theory|,Amazon|,Easy,5851,28.09%
+Number of Turns in Binary Tree,https://practice.geeksforgeeks.org/problems/number-of-turns-in-binary-tree/1,Tree|,Amazon|Samsung|,Hard,2610,27.91%
+Maximum occured integer,https://practice.geeksforgeeks.org/problems/maximum-occured-integer/0,Arrays|,Amazon|,Easy,1096,27.86%
+Is Square,https://practice.geeksforgeeks.org/problems/is-square/0,Mathematical|,Amazon|Zoho|,Easy,7734,27.83%
+Boolean Parenthesization,https://practice.geeksforgeeks.org/problems/boolean-parenthesization/0,Dynamic Programming|,Amazon|Linkedin|Microsoft|,Hard,5586,27.82%
+Overlapping rectangles,https://practice.geeksforgeeks.org/problems/overlapping-rectangles/0,Geometric|Mathematical|,Amazon|Expedia|Goldman Sachs|Microsoft|OATS Systems|Snapdeal|,Easy,21083,27.78%
+Sum of k smallest elements in BST,https://practice.geeksforgeeks.org/problems/sum-of-k-smallest-elements-in-bst/0,Binary Search Tree|,Amazon|,Easy,6075,27.76%
+Remove duplicates in small prime array,https://practice.geeksforgeeks.org/problems/remove-duplicates-in-small-prime-array/1,Arrays|Prime Number|,Amazon|,Easy,2856,27.73%
+Key Pair,https://practice.geeksforgeeks.org/problems/key-pair/0,Arrays|Hash|,Accolite|Amazon|CarWale|FactSet|Flipkart|Google|Hike|Microsoft|Morgan Stanley|SAP Labs|Wipro|Zoho|,Easy,68233,27.56%
+Complement,https://practice.geeksforgeeks.org/problems/complement/0,Arrays|,Amazon|,Medium,1886,27.44%
+Element with left side smaller and right side greater,https://practice.geeksforgeeks.org/problems/unsorted-array/0,Arrays|,Amazon|Intuit|OYO Rooms|Zoho|,Easy,47046,27.35%
+Parenthesis Checker,https://practice.geeksforgeeks.org/problems/parenthesis-checker/0,Stack|,Adobe|Amazon|Flipkart|Hike|Oracle|OYO Rooms|Snapdeal|Walmart|Wipro|Yatra.com|Zoho|,Medium,134941,27.18%
+Number of paths in a matrix with k coins,https://practice.geeksforgeeks.org/problems/number-of-paths-in-a-matrix-with-k-coins/0,Backtracking|Dynamic Programming|Matrix|Recursion|,Amazon|,Medium,7589,27.14%
+Closest Strings,https://practice.geeksforgeeks.org/problems/closest-strings/0,Sorting|Strings|,Amazon|Linkedin|,Easy,2881,27.03%
+Student record,https://practice.geeksforgeeks.org/problems/student-record/0,Mathematical|,Amazon|,Basic,5424,26.88%
+Boundary Traversal of binary tree,https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1,Tree|,Accolite|Amazon|FactSet|Hike|Kritikal Solutions|Microsoft|Morgan Stanley|OYO Rooms|Payu|Samsung|Snapdeal|,Medium,41315,26.78%
+Sorted insert for circular linked list,https://practice.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1,circular-linked-list|Linked List|,Amazon|Microsoft|Zoho|,Easy,21439,26.70%
+Shuffle integers,https://practice.geeksforgeeks.org/problems/shuffle-integers/0,Arrays|Recursion|,Amazon|OYO Rooms|,Basic,4906,26.68%
+Generate IP Addresses,https://practice.geeksforgeeks.org/problems/generate-ip-addresses/1,Backtracking|Strings|,Amazon|,Medium,5627,26.50%
+Subarray with least average,https://practice.geeksforgeeks.org/problems/subarray-with-least-average/0,Mathematical|,Amazon|,Easy,5592,26.25%
+Number to words,https://practice.geeksforgeeks.org/problems/number-to-words/0,Arrays|,Amazon|Microsoft|Oracle|Zoho|,Medium,12141,26.18%
+Multiply two strings,https://practice.geeksforgeeks.org/problems/multiply-two-strings/1,Mathematical|Strings|,Adobe|Amazon|Facebook|Flipkart|Microsoft|Samsung|,Medium,30534,26.16%
+Even and odd elements at even and odd positions,https://practice.geeksforgeeks.org/problems/even-and-odd-elements-at-even-and-odd-positions/0,Arrays|,Amazon|,Easy,11741,25.97%
+Longest Palindrome Substring,https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string2235/1,Strings|,Accolite|Amazon|Groupon|MakeMyTrip|Microsoft|Qualcomm|Samsung|Visa|Walmart|Zoho|,Medium,357,25.81%
+Count the characters,https://practice.geeksforgeeks.org/problems/count-the-characters/0,Hash|Strings|,Amazon|Zoho|,Basic,4844,25.56%
+Four Elements,https://practice.geeksforgeeks.org/problems/four-elements/0,Arrays|two-pointer-algorithm|,Amazon|OYO Rooms|,Easy,32648,25.46%
+Decode It,https://practice.geeksforgeeks.org/problems/decode-it/0,Strings|,Amazon|National Instruments|,Easy,1103,25.41%
+Finding Number,https://practice.geeksforgeeks.org/problems/finding-number/0,Arrays|,Adobe|Amazon|Goldman Sachs|Hike|MakeMyTrip|Microsoft|Paytm|Samsung|SAP Labs|Snapdeal|Walmart|,Easy,47491,25.29%
+Subset Sum Problem,https://practice.geeksforgeeks.org/problems/subset-sum-problem/0,Dynamic Programming|subset|,Accolite|Adobe|Amazon|Drishti-Soft|OYO Rooms|,Medium,82403,25.26%
+Merge Without Extra Space,https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays/0,Arrays|Mathematical|Sorting|,Amazon|Amdocs|Brocade|FactSet|Goldman Sachs|Juniper Networks|Linkedin|Microsoft|Quikr|Snapdeal|Synopsys|Visa|Zoho|,Hard,58599,25.21%
+Count zero,https://practice.geeksforgeeks.org/problems/count-zero/0,Mathematical|,Amazon|,Basic,5072,25.18%
+Subarray with given sum,https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0,Arrays|prefix-sum|Searching|sliding-window|,Adobe|Amazon|Facebook|FactSet|Google|Morgan Stanley|Visa|Zoho|,Easy,280073,24.99%
+Digit multiplier,https://practice.geeksforgeeks.org/problems/digit-multiplier/0,Mathematical|Numbers|,Amazon|FactSet|,Medium,3290,24.93%
+Get minimum element from stack,https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1,Stack|,Amazon|D-E-Shaw|FactSet|Flipkart|Goldman Sachs|GreyOrange|Kuliza|Microsoft|One97|SAP Labs|Sapient|Snapdeal|Walmart|,Medium,55050,24.49%
+Find the string in grid,https://practice.geeksforgeeks.org/problems/find-the-string-in-grid/0,Matrix|,Amazon|FactSet|Microsoft|Samsung|Zoho|,Easy,4971,24.27%
+Number of Coins,https://practice.geeksforgeeks.org/problems/number-of-coins/0,Dynamic Programming|,Accolite|Amazon|Morgan Stanley|Oracle|Paytm|Samsung|Snapdeal|Synopsys|Visa|,Medium,35115,23.93%
+Encrypt the string - 1,https://practice.geeksforgeeks.org/problems/encrypt-the-string-1/0,Strings|,Amazon|,Basic,6652,23.93%
+Rank The Permutations,https://practice.geeksforgeeks.org/problems/rank-the-permutations/0,number-theory|,Amazon|FactSet|,Medium,5389,23.91%
+Save Ironman,https://practice.geeksforgeeks.org/problems/save-ironman/0,Arrays|Strings|,Amazon|Flipkart|Google|,Easy,35949,23.71%
+Print first letter of every word in the string,https://practice.geeksforgeeks.org/problems/print-first-letter-of-every-word-in-the-string/0,Strings|,Amazon|,Basic,2855,23.64%
+Minimize string value,https://practice.geeksforgeeks.org/problems/minimize-string-value/0,Strings|,Amazon|FactSet|Microsoft|,Basic,8948,23.29%
+Intersection of two arrays,https://practice.geeksforgeeks.org/problems/intersection-of-two-arrays2404/1,Arrays|Hash|Mathematical|,Accolite|Amazon|PayPal|Rockstand|,Basic,417,23.27%
+Wildcard string matching,https://practice.geeksforgeeks.org/problems/wildcard-string-matching/0,Strings|,Amazon|Ola Cabs|,Basic,1816,23.21%
+Star elements,https://practice.geeksforgeeks.org/problems/start-elements/0,Arrays|,Amazon|,Easy,15549,23.09%
+Bridge Edge in Graph,https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1,DFS|Graph|,Amazon|,Medium,2314,22.92%
+Fill array with 1's,https://practice.geeksforgeeks.org/problems/fill-array-by-1s/0,Arrays|Mathematical|,Amazon|,Easy,7881,22.88%
+LRU Cache,https://practice.geeksforgeeks.org/problems/lru-cache/1,doubly-linked-list|Hash|Queue|,Adobe|Amazon|Flipkart|Goldman Sachs|Hike|MakeMyTrip|Morgan Stanley|Ola Cabs|OYO Rooms|Paytm|Samsung|Snapdeal|Visa|Walmart|Yahoo|Zoho|,Medium,33719,22.68%
+Rotation,https://practice.geeksforgeeks.org/problems/rotation/0,Arrays|Searching|,ABCO|Amazon|,Easy,37201,22.44%
+Next Greater Even Number,https://practice.geeksforgeeks.org/problems/next-greater-even-number/0,Arrays|Sorting|Strings|,Amazon|FactSet|MakeMyTrip|Yahoo|Zoho|,Easy,2997,22.31%
+Count of n digit numbers whose sum of digits equals to given sum,https://practice.geeksforgeeks.org/problems/count-of-n-digit-numbers-whose-sum-of-digits-equals-to-given-sum/0,Dynamic Programming|,Amazon|,Medium,9668,22.25%
+Probability of Knight,https://practice.geeksforgeeks.org/problems/probability-of-knight/0,Dynamic Programming|Probability|,Amazon|Directi|,Medium,4447,22.18%
+Intersection of Two Linked Lists,https://practice.geeksforgeeks.org/problems/intersection-of-two-linked-list/1,Hash|Linked List|Sorting|,24*7 Innovation Labs|Accolite|Amazon|D-E-Shaw|Flipkart|Komli Media|Microsoft|Taxi4Sure|VMWare|Walmart|,Easy,21817,22.16%
+Pairs with Positive Negative values,https://practice.geeksforgeeks.org/problems/pairs-with-positive-negative-values/0,Arrays|,Amazon|,Easy,22238,21.76%
+Remove minimum elements,https://practice.geeksforgeeks.org/problems/remove-minimum-elements/0,Arrays|,Amazon|,Easy,5119,21.71%
+Check for BST,https://practice.geeksforgeeks.org/problems/check-for-bst/1,Binary Search Tree|Tree|,Accolite|Adobe|Amazon|Boomerang Commerce|FactSet|Flipkart|Goldman Sachs|GreyOrange|Hike|Linkedin|MakeMyTrip|MAQ Software|Microsoft|Ola Cabs|OYO Rooms|Qualcomm|Samsung|Snapdeal|VMWare|Walmart|Wooker|,Medium,122507,21.58%
+Three Sum Closest,https://practice.geeksforgeeks.org/problems/product-array-puzzle0852/1,Arrays|,Amazon|Apple|Google|,Easy,222,21.58%
+Total Decoding Messages,https://practice.geeksforgeeks.org/problems/total-decoding-messages/0,Dynamic Programming|,Amazon|Facebook|Goldman Sachs|Linkedin|MakeMyTrip|Morgan Stanley|Nutanix|OYO Rooms|Zoho|,Medium,46029,21.49%
+Minimum number of steps to reach a given number.,https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number/0,Dynamic Programming|Recursion|,Amazon|InMobi|,Medium,5341,20.97%
+Print all nodes that don't have sibling,https://practice.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/1,Tree|,Amazon|D-E-Shaw|,Easy,63278,20.96%
+Faithful Numbers,https://practice.geeksforgeeks.org/problems/faithful-numbers/0,Mathematical|,Accolite|Amazon|Samsung|,Easy,3724,20.94%
+Find all pairs with a given sum,https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0,Arrays|Hash|,Amazon|Facebook|United Health Group|,Easy,46395,20.74%
+Find duplicates in an array,https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1,Arrays|,Amazon|D-E-Shaw|Flipkart|Paytm|Qualcomm|Zoho|,Easy,29756,20.69%
+Angle between hour and minute hand,https://practice.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand/0,Mathematical|,Amazon|Infinera|Paytm|Salesforce|,Basic,30633,20.16%
+Similar expressions,https://practice.geeksforgeeks.org/problems/similar-expressions/0,Strings|,Amazon|,Hard,6803,19.23%
+K closest elements,https://practice.geeksforgeeks.org/problems/k-closest-elements/0,Arrays|,Amazon|OYO Rooms|,Easy,3940,18.43%
+Ways to sum to N,https://practice.geeksforgeeks.org/problems/ways-to-sum-to-n/0,Dynamic Programming|,Amazon|,Easy,3992,18.26%
+Sum of two large numbers,https://practice.geeksforgeeks.org/problems/sum-of-numbers-or-number/0,Strings|,Amazon|Microsoft|Zoho|,Easy,24885,18.22%
+Word Boggle,https://practice.geeksforgeeks.org/problems/word-boggle/0,Backtracking|BFS|DFS|Graph|Trie|,Amazon|Directi|Facebook|Google|MakeMyTrip|Microsoft|Nvidia|Yahoo|,Medium,28657,17.28%
+Minimum Platforms,https://practice.geeksforgeeks.org/problems/minimum-platforms/0,Arrays|Greedy|,Accolite|Amazon|Boomerang Commerce|D-E-Shaw|Directi|Hike|Morgan Stanley|OYO Rooms|Paytm|Walmart|Zillious|,Medium,97714,17.22%
+Points in Straight Line,https://practice.geeksforgeeks.org/problems/points-in-straight-line/1,Mathematical|,Amazon|,Easy,3390,16.87%
+Maximum Tip Calculator,https://practice.geeksforgeeks.org/problems/maximum-tip-calculator/0,Arrays|Dynamic Programming|,Amazon|TCS|,Medium,35095,16.86%
+Find all four sum numbers,https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0,Hash|Sorting|,Adobe|Amazon|Google|Microsoft|OYO Rooms|,Medium,28627,16.59%
+Maximum Sub-String after at most K changes,https://practice.geeksforgeeks.org/problems/maximum-sub-string-after-at-most-k-changes/0,Misc|,Amazon|,Easy,546,16.29%
+Squares in Reactangle,https://practice.geeksforgeeks.org/problems/squares-in-reactangle/0,Mathematical|,Amazon|,Easy,624,16.06%
+Count number of words,https://practice.geeksforgeeks.org/problems/count-number-of-words/0,Strings|,Amazon|,Easy,3201,15.99%
+Subtraction in Linked List,https://practice.geeksforgeeks.org/problems/subtraction-in-linked-list/1,Linked List|,Amazon|,Easy,3011,15.92%
+Stock buy and sell,https://practice.geeksforgeeks.org/problems/stock-buy-and-sell2615/1,Arrays|,Accolite|Amazon|D-E-Shaw|Directi|Facebook|Flipkart|Goldman Sachs|Hike|Intuit|MakeMyTrip|Microsoft|Morgan Stanley|Ola Cabs|Oracle|Paytm|Pubmatic|Quikr|Salesforce|Samsung|SAP Labs|Sapient|Swiggy|Walmart|,Medium,1397,15.40%
+Word Boggle,https://practice.geeksforgeeks.org/problems/word-boggle4143/1,DFS|Graph|Recursion|Trie|,Amazon|Directi|Facebook|Google|MakeMyTrip|Microsoft|Nvidia|Yahoo|,Medium,174,13.21%
+Right most non zero digit,https://practice.geeksforgeeks.org/problems/right-most-non-zero-digit/0,Mathematical|Modular Arithmetic|,Amazon|,Easy,1101,12.45%
+Closest Palindrome,https://practice.geeksforgeeks.org/problems/closest-palindrome/0,Mathematical|,Amazon|,Hard,30697,6.38%
